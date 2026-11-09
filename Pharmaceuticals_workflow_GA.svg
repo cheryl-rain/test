@@ -1,0 +1,611 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4400" height="2240" viewBox="0 0 2200 1120"><title>Editable ensemble-centered ECD/VCD graphical abstract</title><desc>Original conceptual vector diagram. All structures and spectra are schematic; no embedded raster images.</desc><rect width="2200" height="1120" fill="white"/>
+<text id="000_title" x="1100" y="63" fill="#17364E" font-family="Arial,sans-serif" font-size="44" font-weight="700" text-anchor="middle">From conformational ensembles to ECD/VCD interpretation</text>
+<text id="001_text" x="1100" y="108" fill="#647585" font-family="Arial,sans-serif" font-size="28" font-weight="400" text-anchor="middle">Quantum-chemical methods • ensemble averaging • stereochemical insight</text>
+<rect id="002_method_panel_1" x="60" y="190" width="392" height="587" rx="18" fill="#F6F9FB" stroke="none" stroke-width="1.5"/>
+<ellipse id="003_step_number_badge" cx="94.0" cy="156.0" rx="24.0" ry="24.0" fill="#07867F"/>
+<text id="004_text" x="94" y="165" fill="white" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">1</text>
+<text id="005_step_1_label" x="138" y="168" fill="#17364E" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">Sample</text>
+<path id="006_method_connection_1_shaft" d="M 455.000,451.000 L 467.000,451.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="007_method_connection_1_head" d="M 477.000,451.000 L 467.000,456.800 L 467.000,445.200 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="008_method_panel_2" x="482" y="190" width="392" height="587" rx="18" fill="#F6F9FB" stroke="none" stroke-width="1.5"/>
+<ellipse id="009_step_number_badge" cx="516.0" cy="156.0" rx="24.0" ry="24.0" fill="#07867F"/>
+<text id="010_text" x="516" y="165" fill="white" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">2</text>
+<text id="011_step_2_label" x="560" y="168" fill="#17364E" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">Refine</text>
+<path id="012_method_connection_2_shaft" d="M 877.000,451.000 L 889.000,451.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="013_method_connection_2_head" d="M 899.000,451.000 L 889.000,456.800 L 889.000,445.200 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="014_method_panel_3" x="904" y="190" width="392" height="587" rx="18" fill="#FCF8EF" stroke="none" stroke-width="1.5"/>
+<ellipse id="015_step_number_badge" cx="938.0" cy="156.0" rx="24.0" ry="24.0" fill="#B98426"/>
+<text id="016_text" x="938" y="165" fill="white" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">3</text>
+<text id="017_step_3_label" x="982" y="168" fill="#17364E" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">Populate</text>
+<path id="018_method_connection_3_shaft" d="M 1299.000,451.000 L 1311.000,451.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="019_method_connection_3_head" d="M 1321.000,451.000 L 1311.000,456.800 L 1311.000,445.200 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="020_method_panel_4" x="1326" y="190" width="392" height="587" rx="18" fill="#F6F9FB" stroke="none" stroke-width="1.5"/>
+<ellipse id="021_step_number_badge" cx="1360.0" cy="156.0" rx="24.0" ry="24.0" fill="#07867F"/>
+<text id="022_text" x="1360" y="165" fill="white" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">4</text>
+<text id="023_step_4_label" x="1404" y="168" fill="#17364E" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">Calculate</text>
+<path id="024_method_connection_4_shaft" d="M 1721.000,451.000 L 1733.000,451.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="025_method_connection_4_head" d="M 1743.000,451.000 L 1733.000,456.800 L 1733.000,445.200 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="026_method_panel_5" x="1748" y="190" width="392" height="587" rx="18" fill="#F6F9FB" stroke="none" stroke-width="1.5"/>
+<ellipse id="027_step_number_badge" cx="1782.0" cy="156.0" rx="24.0" ry="24.0" fill="#07867F"/>
+<text id="028_text" x="1782" y="165" fill="white" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">5</text>
+<text id="029_step_5_label" x="1826" y="168" fill="#17364E" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">Compare</text>
+<path id="030_diarylmethanol_bond" d="M 108.530,273.286 L 105.897,278.959" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="031_diarylmethanol_bond" d="M 105.897,278.959 L 103.263,284.633" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="032_diarylmethanol_bond" d="M 104.835,286.828 L 96.981,292.448" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="033_diarylmethanol_bond" d="M 96.981,292.448 L 89.128,298.068" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="034_diarylmethanol_bond" d="M 101.692,282.437 L 93.839,288.057" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="035_diarylmethanol_bond" d="M 93.839,288.057 L 85.985,293.677" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="036_diarylmethanol_bond" d="M 87.557,295.873 L 84.778,301.255" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="037_diarylmethanol_bond" d="M 84.778,301.255 L 82.000,306.637" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="038_diarylmethanol_bond" d="M 81.918,303.938 L 86.937,303.786" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="039_diarylmethanol_bond" d="M 86.937,303.786 L 91.956,303.633" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="040_diarylmethanol_bond" d="M 82.082,309.336 L 87.101,309.183" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="041_diarylmethanol_bond" d="M 87.101,309.183 L 92.120,309.031" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="042_diarylmethanol_bond" d="M 92.038,306.332 L 99.843,300.800" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="043_diarylmethanol_bond" d="M 99.843,300.800 L 107.649,295.269" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="044_diarylmethanol_bond" d="M 105.276,293.981 L 108.240,288.518" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="045_diarylmethanol_bond" d="M 108.240,288.518 L 111.205,283.055" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="046_diarylmethanol_bond" d="M 110.022,296.557 L 112.986,291.094" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="047_diarylmethanol_bond" d="M 112.986,291.094 L 115.951,285.631" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="048_diarylmethanol_bond" d="M 113.578,284.343 L 122.104,278.344" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="049_diarylmethanol_bond" d="M 122.104,278.344 L 130.630,272.346" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="050_diarylmethanol_bond" d="M 130.630,272.346 L 128.614,265.354" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="051_diarylmethanol_bond" d="M 128.614,265.354 L 126.598,258.363" fill="none" stroke="#D74646" stroke-width="3.1"/>
+<path id="052_diarylmethanol_bond" d="M 130.630,272.346 L 139.279,277.682" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="053_diarylmethanol_bond" d="M 139.279,277.682 L 147.929,283.019" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="054_diarylmethanol_bond" d="M 150.329,281.782 L 153.785,288.489" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="055_diarylmethanol_bond" d="M 153.785,288.489 L 157.241,295.197" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="056_diarylmethanol_bond" d="M 145.529,284.256 L 148.985,290.963" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="057_diarylmethanol_bond" d="M 148.985,290.963 L 152.441,297.670" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="058_diarylmethanol_bond" d="M 154.841,296.433 L 162.786,301.396" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="059_diarylmethanol_bond" d="M 162.786,301.396 L 170.730,306.360" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="060_diarylmethanol_bond" d="M 169.808,303.822 L 174.443,302.138" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="061_diarylmethanol_bond" d="M 174.443,302.138 L 179.078,300.454" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="062_diarylmethanol_bond" d="M 171.652,308.897 L 176.287,307.213" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="063_diarylmethanol_bond" d="M 176.287,307.213 L 180.922,305.529" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="064_diarylmethanol_bond" d="M 180.000,302.992 L 176.703,296.345" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="065_diarylmethanol_bond" d="M 176.703,296.345 L 173.405,289.699" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="066_diarylmethanol_bond" d="M 171.975,291.989 L 164.026,287.026" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="067_diarylmethanol_bond" d="M 164.026,287.026 L 156.076,282.063" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="068_diarylmethanol_bond" d="M 174.835,287.409 L 166.886,282.445" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="069_diarylmethanol_bond" d="M 166.886,282.445 L 158.936,277.482" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="070_diarylmethanol_bond" d="M 113.578,284.343 L 108.421,284.488" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="071_diarylmethanol_bond" d="M 108.421,284.488 L 103.263,284.633" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="072_diarylmethanol_bond" d="M 157.506,279.772 L 152.718,281.396" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="073_diarylmethanol_bond" d="M 152.718,281.396 L 147.929,283.019" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="074_diarylmethanol_bond" d="M 130.630,272.346 L 132.245,268.620" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="075_diarylmethanol_bond" d="M 132.245,268.620 L 133.861,264.894" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<ellipse id="076_diarylmethanol_C" cx="108.53024315781832" cy="273.28561456031156" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="077_diarylmethanol_C_light" cx="106.97024315781832" cy="271.56961456031155" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="078_diarylmethanol_C_highlight" cx="105.72224315781833" cy="270.39961456031153" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="079_diarylmethanol_C" cx="87.55655611529411" cy="295.87260846987647" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="080_diarylmethanol_C_light" cx="85.99655611529411" cy="294.15660846987646" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="081_diarylmethanol_C_highlight" cx="84.74855611529412" cy="292.98660846987644" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="082_diarylmethanol_C" cx="103.26345806747267" cy="284.6326110609933" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="083_diarylmethanol_C_light" cx="101.70345806747267" cy="282.9166110609933" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="084_diarylmethanol_C_highlight" cx="100.45545806747268" cy="281.7466110609933" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="085_diarylmethanol_H" cx="133.86124735157782" cy="264.8943839881153" rx="5.4" ry="5.4" fill="#F1F3F6"/>
+<ellipse id="086_diarylmethanol_H_light" cx="132.7812473515778" cy="263.7063839881153" rx="3.3480000000000003" ry="3.3480000000000003" fill="#FFFFFF"/>
+<ellipse id="087_diarylmethanol_H_highlight" cx="131.91724735157783" cy="262.8963839881153" rx="1.026" ry="1.026" fill="#E8EFF1"/>
+<ellipse id="088_diarylmethanol_C" cx="154.84128925005567" cy="296.4332677613596" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="089_diarylmethanol_C_light" cx="153.28128925005566" cy="294.7172677613596" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="090_diarylmethanol_C_highlight" cx="152.03328925005567" cy="293.5472677613596" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="091_diarylmethanol_C" cx="82.0" cy="306.6368741293065" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="092_diarylmethanol_C_light" cx="80.44" cy="304.92087412930647" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="093_diarylmethanol_C_highlight" cx="79.19200000000001" cy="303.75087412930645" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="094_diarylmethanol_C" cx="170.7297155223202" cy="306.3596471756524" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="095_diarylmethanol_C_light" cx="169.1697155223202" cy="304.6436471756524" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="096_diarylmethanol_C_highlight" cx="167.9217155223202" cy="303.4736471756524" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="097_diarylmethanol_C" cx="113.57763114330857" cy="284.34329624341" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="098_diarylmethanol_C_light" cx="112.01763114330856" cy="282.62729624341" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="099_diarylmethanol_C_highlight" cx="110.76963114330857" cy="281.45729624341" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="100_diarylmethanol_C" cx="130.6295155234989" cy="272.34553093499255" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="101_diarylmethanol_C_light" cx="129.0695155234989" cy="270.62953093499254" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="102_diarylmethanol_C_highlight" cx="127.8215155234989" cy="269.45953093499253" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<text id="103_stereogenic_center_marker" x="141.6295155234989" y="265.34553093499255" fill="#B98426" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="start">*</text>
+<ellipse id="104_diarylmethanol_C" cx="147.92935943886664" cy="283.0189204341289" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="105_diarylmethanol_C_light" cx="146.36935943886664" cy="281.3029204341289" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="106_diarylmethanol_C_highlight" cx="145.12135943886665" cy="280.1329204341289" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="107_diarylmethanol_C" cx="92.03769505543139" cy="306.3320287959581" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="108_diarylmethanol_C_light" cx="90.47769505543138" cy="304.6160287959581" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="109_diarylmethanol_C_highlight" cx="89.22969505543139" cy="303.44602879595806" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="110_diarylmethanol_C" cx="107.64865367210433" cy="295.26891062402126" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="111_diarylmethanol_C_light" cx="106.08865367210433" cy="293.55291062402125" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="112_diarylmethanol_C_highlight" cx="104.84065367210434" cy="292.38291062402124" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="113_diarylmethanol_O" cx="126.59756222256925" cy="258.36312587069347" rx="8.7" ry="8.7" fill="#D74646"/>
+<ellipse id="114_diarylmethanol_O_light" cx="124.85756222256926" cy="256.4491258706935" rx="5.393999999999999" ry="5.393999999999999" fill="#E96666"/>
+<ellipse id="115_diarylmethanol_O_highlight" cx="123.46556222256925" cy="255.14412587069347" rx="1.6529999999999998" ry="1.6529999999999998" fill="#E8EFF1"/>
+<ellipse id="116_diarylmethanol_C" cx="180.0" cy="302.99174618766807" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="117_diarylmethanol_C_light" cx="178.44" cy="301.27574618766806" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="118_diarylmethanol_C_highlight" cx="177.192" cy="300.10574618766805" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="119_diarylmethanol_C" cx="157.5058873565586" cy="279.77232154753295" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="120_diarylmethanol_C_light" cx="155.9458873565586" cy="278.05632154753295" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="121_diarylmethanol_C_highlight" cx="154.6978873565586" cy="276.88632154753293" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="122_diarylmethanol_C" cx="173.40530172055054" cy="289.699117818313" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="123_diarylmethanol_C_light" cx="171.84530172055054" cy="287.983117818313" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="124_diarylmethanol_C_highlight" cx="170.59730172055055" cy="286.813117818313" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<path id="125_diarylmethanol_bond" d="M 246.864,275.391 L 240.412,279.528" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="126_diarylmethanol_bond" d="M 240.412,279.528 L 233.961,283.665" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="127_diarylmethanol_bond" d="M 235.499,285.883 L 228.163,290.972" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="128_diarylmethanol_bond" d="M 228.163,290.972 L 220.827,296.060" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="129_diarylmethanol_bond" d="M 232.422,281.446 L 225.085,286.534" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="130_diarylmethanol_bond" d="M 225.085,286.534 L 217.749,291.623" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="131_diarylmethanol_bond" d="M 219.288,293.841 L 213.144,297.961" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="132_diarylmethanol_bond" d="M 213.144,297.961 L 207.000,302.080" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="133_diarylmethanol_bond" d="M 205.349,299.944 L 206.465,299.080" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="134_diarylmethanol_bond" d="M 206.465,299.080 L 207.582,298.217" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="135_diarylmethanol_bond" d="M 208.651,304.216 L 209.768,303.352" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="136_diarylmethanol_bond" d="M 209.768,303.352 L 210.885,302.489" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="137_diarylmethanol_bond" d="M 209.234,300.353 L 216.517,295.396" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="138_diarylmethanol_bond" d="M 216.517,295.396 L 223.800,290.440" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="139_diarylmethanol_bond" d="M 222.298,288.196 L 228.616,283.966" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="140_diarylmethanol_bond" d="M 228.616,283.966 L 234.935,279.737" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="141_diarylmethanol_bond" d="M 225.301,292.683 L 231.620,288.454" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="142_diarylmethanol_bond" d="M 231.620,288.454 L 237.939,284.224" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="143_diarylmethanol_bond" d="M 236.437,281.981 L 244.401,276.736" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="144_diarylmethanol_bond" d="M 244.401,276.736 L 252.366,271.491" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="145_diarylmethanol_bond" d="M 252.366,271.491 L 250.996,269.624" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="146_diarylmethanol_bond" d="M 250.996,269.624 L 249.627,267.757" fill="none" stroke="#D74646" stroke-width="3.1"/>
+<path id="147_diarylmethanol_bond" d="M 252.366,271.491 L 261.538,276.049" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="148_diarylmethanol_bond" d="M 261.538,276.049 L 270.709,280.606" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="149_diarylmethanol_bond" d="M 273.381,280.215 L 274.713,289.309" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="150_diarylmethanol_bond" d="M 274.713,289.309 L 276.046,298.404" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="151_diarylmethanol_bond" d="M 268.038,280.997 L 269.370,290.092" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="152_diarylmethanol_bond" d="M 269.370,290.092 L 270.703,299.187" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="153_diarylmethanol_bond" d="M 273.374,298.796 L 281.887,302.827" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="154_diarylmethanol_bond" d="M 281.887,302.827 L 290.399,306.859" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="155_diarylmethanol_bond" d="M 288.870,304.634 L 296.170,299.618" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="156_diarylmethanol_bond" d="M 296.170,299.618 L 303.471,294.602" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="157_diarylmethanol_bond" d="M 291.928,309.085 L 299.228,304.069" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="158_diarylmethanol_bond" d="M 299.228,304.069 L 306.529,299.053" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="159_diarylmethanol_bond" d="M 305.000,296.827 L 303.808,287.771" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="160_diarylmethanol_bond" d="M 303.808,287.771 L 302.617,278.715" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="161_diarylmethanol_bond" d="M 301.457,281.153 L 292.949,277.107" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="162_diarylmethanol_bond" d="M 292.949,277.107 L 284.440,273.060" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="163_diarylmethanol_bond" d="M 303.776,276.276 L 295.268,272.230" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="164_diarylmethanol_bond" d="M 295.268,272.230 L 286.759,268.184" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="165_diarylmethanol_bond" d="M 236.437,281.981 L 235.199,282.823" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="166_diarylmethanol_bond" d="M 235.199,282.823 L 233.961,283.665" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="167_diarylmethanol_bond" d="M 285.600,270.622 L 278.155,275.614" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="168_diarylmethanol_bond" d="M 278.155,275.614 L 270.709,280.606" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="169_diarylmethanol_bond" d="M 252.366,271.491 L 252.481,264.816" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="170_diarylmethanol_bond" d="M 252.481,264.816 L 252.597,258.141" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<ellipse id="171_diarylmethanol_C" cx="246.86370557544754" cy="275.39052623372413" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="172_diarylmethanol_C_light" cx="245.30370557544754" cy="273.6745262337241" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="173_diarylmethanol_C_highlight" cx="244.05570557544755" cy="272.5045262337241" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="174_diarylmethanol_C" cx="219.28794225365658" cy="293.8413595564225" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="175_diarylmethanol_C_light" cx="217.72794225365658" cy="292.1253595564225" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="176_diarylmethanol_C_highlight" cx="216.4799422536566" cy="290.9553595564225" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="177_diarylmethanol_C" cx="233.9605009243525" cy="283.66482867204303" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="178_diarylmethanol_C_light" cx="232.40050092435249" cy="281.948828672043" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="179_diarylmethanol_C_highlight" cx="231.1525009243525" cy="280.778828672043" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="180_diarylmethanol_C" cx="207.0" cy="302.07979857865666" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="181_diarylmethanol_C_light" cx="205.44" cy="300.36379857865666" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="182_diarylmethanol_C_highlight" cx="204.192" cy="299.19379857865664" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="183_diarylmethanol_C" cx="302.6167024658851" cy="278.7145830789407" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="184_diarylmethanol_C_light" cx="301.0567024658851" cy="276.99858307894067" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="185_diarylmethanol_C_highlight" cx="299.8087024658851" cy="275.82858307894065" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="186_diarylmethanol_C" cx="285.59975226544134" cy="270.6218564685384" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="187_diarylmethanol_C_light" cx="284.03975226544134" cy="268.9058564685384" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="188_diarylmethanol_C_highlight" cx="282.79175226544135" cy="267.7358564685384" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="189_diarylmethanol_C" cx="236.4367913590123" cy="281.9805668615557" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="190_diarylmethanol_C_light" cx="234.8767913590123" cy="280.2645668615557" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="191_diarylmethanol_C_highlight" cx="233.6287913590123" cy="279.0945668615557" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="192_diarylmethanol_H" cx="252.59678552902142" cy="258.14085262517733" rx="5.4" ry="5.4" fill="#F1F3F6"/>
+<ellipse id="193_diarylmethanol_H_light" cx="251.5167855290214" cy="256.95285262517734" rx="3.3480000000000003" ry="3.3480000000000003" fill="#FFFFFF"/>
+<ellipse id="194_diarylmethanol_H_highlight" cx="250.65278552902143" cy="256.14285262517734" rx="1.026" ry="1.026" fill="#E8EFF1"/>
+<ellipse id="195_diarylmethanol_C" cx="305.0" cy="296.82741752718056" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="196_diarylmethanol_C_light" cx="303.44" cy="295.11141752718055" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="197_diarylmethanol_C_highlight" cx="302.192" cy="293.94141752718053" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="198_diarylmethanol_C" cx="209.23372394032347" cy="300.35279579907206" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="199_diarylmethanol_C_light" cx="207.67372394032347" cy="298.63679579907205" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="200_diarylmethanol_C_highlight" cx="206.42572394032348" cy="297.46679579907203" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="201_diarylmethanol_C" cx="270.70943452732945" cy="280.60608875042203" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="202_diarylmethanol_C_light" cx="269.14943452732945" cy="278.890088750422" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="203_diarylmethanol_C_highlight" cx="267.90143452732946" cy="277.720088750422" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="204_diarylmethanol_C" cx="252.36581947960897" cy="271.49125376058345" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="205_diarylmethanol_C_light" cx="250.80581947960897" cy="269.77525376058344" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="206_diarylmethanol_C_highlight" cx="249.55781947960898" cy="268.6052537605834" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<text id="207_stereogenic_center_marker" x="263.36581947960894" y="264.49125376058345" fill="#B98426" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="start">*</text>
+<ellipse id="208_diarylmethanol_C" cx="290.39881619439234" cy="306.85914737482267" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="209_diarylmethanol_C_light" cx="288.83881619439234" cy="305.14314737482266" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="210_diarylmethanol_C_highlight" cx="287.59081619439235" cy="303.97314737482264" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="211_diarylmethanol_C" cx="273.3742272117711" cy="298.79563677838445" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="212_diarylmethanol_C_light" cx="271.8142272117711" cy="297.07963677838444" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="213_diarylmethanol_C_highlight" cx="270.5662272117711" cy="295.9096367783844" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="214_diarylmethanol_C" cx="223.79954647905998" cy="290.4397795211955" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="215_diarylmethanol_C_light" cx="222.23954647905998" cy="288.72377952119547" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="216_diarylmethanol_C_highlight" cx="220.99154647906" cy="287.55377952119545" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="217_diarylmethanol_O" cx="249.62672092339548" cy="267.7568925612258" rx="8.7" ry="8.7" fill="#D74646"/>
+<ellipse id="218_diarylmethanol_O_light" cx="247.88672092339547" cy="265.8428925612258" rx="5.393999999999999" ry="5.393999999999999" fill="#E96666"/>
+<ellipse id="219_diarylmethanol_O_highlight" cx="246.49472092339548" cy="264.5378925612258" rx="1.6529999999999998" ry="1.6529999999999998" fill="#E8EFF1"/>
+<path id="220_torsional_scan_arc" d="M 275.305,264.453 L 276.715,266.371 L 277.859,268.458 L 278.718,270.679 L 279.276,272.993 L 279.524,275.361 L 279.458,277.740 L 279.078,280.090 L 278.391,282.370 L 277.410,284.539 L 276.150,286.559 L 274.636,288.395 L 272.892,290.016 L 270.949,291.392 L 268.842,292.500 L 266.607,293.320 L 264.284,293.838 L 261.912,294.045 L 259.534,293.937 L 257.191,293.516 L 254.924,292.789 L 252.772,291.770 L 250.774,290.476 L 248.964,288.929 L 247.374,287.157 L 246.032,285.191 L 244.961,283.065 L 244.180,280.816 L 243.703,278.484 L 243.538,276.109 L 243.687,273.733 L 244.149,271.398 L 244.915,269.144 L 245.971,267.010 L 247.300,265.035" fill="none" stroke="#B98426" stroke-width="2.5"/>
+<path id="221_torsional_scan_arrow_shaft" d="M 244.915,269.144 L 244.287,270.224" fill="none" stroke="#B98426" stroke-width="2.5"/>
+<path id="222_torsional_scan_arrow_head" d="M 247.300,265.035 L 247.297,271.971 L 241.278,268.477 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<path id="223_diarylmethanol_bond" d="M 374.062,257.828 L 367.731,263.432" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="224_diarylmethanol_bond" d="M 367.731,263.432 L 361.399,269.036" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="225_diarylmethanol_bond" d="M 360.396,271.543 L 351.848,268.121" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="226_diarylmethanol_bond" d="M 351.848,268.121 L 343.301,264.699" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="227_diarylmethanol_bond" d="M 362.403,266.529 L 353.855,263.108" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="228_diarylmethanol_bond" d="M 353.855,263.108 L 345.308,259.686" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="229_diarylmethanol_bond" d="M 344.304,262.193 L 338.152,266.954" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="230_diarylmethanol_bond" d="M 338.152,266.954 L 332.000,271.715" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="231_diarylmethanol_bond" d="M 334.601,270.989 L 336.902,279.239" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="232_diarylmethanol_bond" d="M 336.902,279.239 L 339.204,287.489" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="233_diarylmethanol_bond" d="M 329.399,272.440 L 331.701,280.690" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="234_diarylmethanol_bond" d="M 331.701,280.690 L 334.003,288.940" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="235_diarylmethanol_bond" d="M 336.603,288.214 L 345.075,291.683" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="236_diarylmethanol_bond" d="M 345.075,291.683 L 353.546,295.152" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="237_diarylmethanol_bond" d="M 351.936,292.984 L 358.282,288.270" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="238_diarylmethanol_bond" d="M 358.282,288.270 L 364.628,283.555" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="239_diarylmethanol_bond" d="M 355.156,297.319 L 361.502,292.604" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="240_diarylmethanol_bond" d="M 361.502,292.604 L 367.848,287.890" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="241_diarylmethanol_bond" d="M 366.238,285.722 L 375.335,290.033" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="242_diarylmethanol_bond" d="M 375.335,290.033 L 384.433,294.344" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="243_diarylmethanol_bond" d="M 384.433,294.344 L 385.451,296.565" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="244_diarylmethanol_bond" d="M 385.451,296.565 L 386.469,298.785" fill="none" stroke="#D74646" stroke-width="3.1"/>
+<path id="245_diarylmethanol_bond" d="M 384.433,294.344 L 392.337,289.100" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="246_diarylmethanol_bond" d="M 392.337,289.100 L 400.241,283.857" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="247_diarylmethanol_bond" d="M 399.710,281.209 L 407.327,279.683" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="248_diarylmethanol_bond" d="M 407.327,279.683 L 414.944,278.157" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="249_diarylmethanol_bond" d="M 400.771,286.504 L 408.388,284.978" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="250_diarylmethanol_bond" d="M 408.388,284.978 L 416.005,283.451" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="251_diarylmethanol_bond" d="M 415.474,280.804 L 422.737,276.107" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="252_diarylmethanol_bond" d="M 422.737,276.107 L 430.000,271.409" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="253_diarylmethanol_bond" d="M 427.306,271.583 L 427.100,268.390" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="254_diarylmethanol_bond" d="M 427.100,268.390 L 426.894,265.197" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="255_diarylmethanol_bond" d="M 432.694,271.236 L 432.489,268.042" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="256_diarylmethanol_bond" d="M 432.489,268.042 L 432.283,264.849" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="257_diarylmethanol_bond" d="M 429.588,265.023 L 422.137,266.548" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="258_diarylmethanol_bond" d="M 422.137,266.548 L 414.687,268.073" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="259_diarylmethanol_bond" d="M 416.154,270.340 L 408.891,275.040" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="260_diarylmethanol_bond" d="M 408.891,275.040 L 401.629,279.741" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="261_diarylmethanol_bond" d="M 413.219,265.806 L 405.957,270.507" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="262_diarylmethanol_bond" d="M 405.957,270.507 L 398.694,275.208" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="263_diarylmethanol_bond" d="M 366.238,285.722 L 363.819,277.379" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="264_diarylmethanol_bond" d="M 363.819,277.379 L 361.399,269.036" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="265_diarylmethanol_bond" d="M 400.162,277.475 L 400.201,280.666" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="266_diarylmethanol_bond" d="M 400.201,280.666 L 400.241,283.857" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="267_diarylmethanol_bond" d="M 384.433,294.344 L 384.595,300.758" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="268_diarylmethanol_bond" d="M 384.595,300.758 L 384.757,307.172" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<ellipse id="269_diarylmethanol_O" cx="386.4685660006254" cy="298.7854950754357" rx="8.7" ry="8.7" fill="#D74646"/>
+<ellipse id="270_diarylmethanol_O_light" cx="384.7285660006254" cy="296.8714950754357" rx="5.393999999999999" ry="5.393999999999999" fill="#E96666"/>
+<ellipse id="271_diarylmethanol_O_highlight" cx="383.3365660006254" cy="295.5664950754357" rx="1.6529999999999998" ry="1.6529999999999998" fill="#E8EFF1"/>
+<ellipse id="272_diarylmethanol_C" cx="374.06235098879375" cy="257.8283336181611" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="273_diarylmethanol_C_light" cx="372.50235098879375" cy="256.1123336181611" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="274_diarylmethanol_C_highlight" cx="371.25435098879376" cy="254.9423336181611" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="275_diarylmethanol_C" cx="361.39947596550087" cy="269.035880941342" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="276_diarylmethanol_C_light" cx="359.83947596550087" cy="267.319880941342" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="277_diarylmethanol_C_highlight" cx="358.5914759655009" cy="266.14988094134196" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="278_diarylmethanol_C" cx="415.4743420086162" cy="280.8040419726692" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="279_diarylmethanol_C_light" cx="413.9143420086162" cy="279.0880419726692" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="280_diarylmethanol_C_highlight" cx="412.6663420086162" cy="277.9180419726692" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="281_diarylmethanol_C" cx="344.30424332098016" cy="262.19260441342254" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="282_diarylmethanol_C_light" cx="342.74424332098016" cy="260.47660441342254" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="283_diarylmethanol_C_highlight" cx="341.49624332098017" cy="259.3066044134225" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="284_diarylmethanol_C" cx="384.4328818872176" cy="294.34395028968606" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="285_diarylmethanol_C_light" cx="382.8728818872176" cy="292.62795028968605" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="286_diarylmethanol_C_highlight" cx="381.6248818872176" cy="291.45795028968604" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<text id="287_stereogenic_center_marker" x="395.4328818872176" y="287.34395028968606" fill="#B98426" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="start">*</text>
+<ellipse id="288_diarylmethanol_C" cx="366.237903869506" cy="285.72241081843094" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="289_diarylmethanol_C_light" cx="364.677903869506" cy="284.00641081843094" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="290_diarylmethanol_C_highlight" cx="363.429903869506" cy="282.8364108184309" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="291_diarylmethanol_C" cx="430.0" cy="271.40944673941283" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="292_diarylmethanol_C_light" cx="428.44" cy="269.6934467394128" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="293_diarylmethanol_C_highlight" cx="427.192" cy="268.5234467394128" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="294_diarylmethanol_H" cx="384.75718218069574" cy="307.1716663818389" rx="5.4" ry="5.4" fill="#F1F3F6"/>
+<ellipse id="295_diarylmethanol_H_light" cx="383.67718218069575" cy="305.98366638183893" rx="3.3480000000000003" ry="3.3480000000000003" fill="#FFFFFF"/>
+<ellipse id="296_diarylmethanol_H_highlight" cx="382.8131821806957" cy="305.1736663818389" rx="1.026" ry="1.026" fill="#E8EFF1"/>
+<ellipse id="297_diarylmethanol_C" cx="400.2408263181785" cy="283.8566588618263" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="298_diarylmethanol_C_light" cx="398.6808263181785" cy="282.1406588618263" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="299_diarylmethanol_C_highlight" cx="397.4328263181785" cy="280.9706588618263" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="300_diarylmethanol_C" cx="332.0" cy="271.7146711368458" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="301_diarylmethanol_C_light" cx="330.44" cy="269.9986711368458" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="302_diarylmethanol_C_highlight" cx="329.192" cy="268.8286711368458" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="303_diarylmethanol_C" cx="353.5459586922163" cy="295.15167526579427" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="304_diarylmethanol_C_light" cx="351.9859586922163" cy="293.43567526579426" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="305_diarylmethanol_C_highlight" cx="350.7379586922163" cy="292.26567526579424" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="306_diarylmethanol_C" cx="336.6034657683476" cy="288.2144553991695" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="307_diarylmethanol_C_light" cx="335.0434657683476" cy="286.4984553991695" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="308_diarylmethanol_C_highlight" cx="333.7954657683476" cy="285.32845539916946" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="309_diarylmethanol_C" cx="429.58827984108586" cy="265.02295572608887" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="310_diarylmethanol_C_light" cx="428.02827984108586" cy="263.30695572608886" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="311_diarylmethanol_C_highlight" cx="426.78027984108587" cy="262.13695572608884" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="312_diarylmethanol_C" cx="400.16154509483306" cy="277.47457461469713" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="313_diarylmethanol_C_light" cx="398.60154509483306" cy="275.7585746146971" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="314_diarylmethanol_C_highlight" cx="397.35354509483307" cy="274.5885746146971" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="315_diarylmethanol_C" cx="414.6865631168397" cy="268.0731084635765" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="316_diarylmethanol_C_light" cx="413.1265631168397" cy="266.3571084635765" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="317_diarylmethanol_C_highlight" cx="411.8785631168397" cy="265.18710846357646" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<text id="318_text" x="256.0" y="385" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle">Conformer ensemble</text>
+<path id="319_schematic_energy_contour" d="M 203.067,561.386 L 203.052,561.378 L 199.843,558.957 L 199.566,558.662 L 198.388,555.946 L 198.577,553.230 L 199.843,550.998 L 200.233,550.514 L 203.067,548.591 L 205.068,547.797 L 206.292,547.448 L 209.517,547.146 L 212.742,547.456 L 213.940,547.797 L 215.966,548.630 L 218.671,550.514 L 219.191,551.215 L 220.283,553.230 L 220.398,555.946 L 219.191,558.601 L 219.155,558.662 L 215.966,561.135 L 215.460,561.378 L 212.742,562.233 L 209.517,562.601 L 206.292,562.322 L 203.067,561.386" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="320_schematic_energy_contour" d="M 199.843,570.492 L 197.172,569.527 L 196.618,569.296 L 193.393,567.560 L 192.264,566.811 L 190.169,565.088 L 189.141,564.095 L 187.059,561.378 L 186.944,561.150 L 185.817,558.662 L 185.215,555.946 L 185.222,553.230 L 185.835,550.514 L 186.944,548.060 L 187.078,547.797 L 189.135,545.081 L 190.169,544.047 L 192.175,542.365 L 193.393,541.516 L 196.618,539.716 L 196.775,539.649 L 199.843,538.453 L 203.067,537.552 L 206.292,536.974 L 206.776,536.932 L 209.517,536.704 L 212.742,536.718 L 215.076,536.932 L 215.966,537.020 L 219.191,537.637 L 222.416,538.592 L 225.002,539.649 L 225.640,539.951 L 228.865,541.883 L 229.530,542.365 L 232.090,544.716 L 232.435,545.081 L 234.325,547.797 L 235.315,550.123 L 235.470,550.514 L 235.955,553.230 L 235.836,555.946 L 235.315,557.896 L 235.105,558.662 L 233.705,561.378 L 232.090,563.439 L 231.529,564.095 L 228.865,566.382 L 228.289,566.811 L 225.640,568.376 L 223.230,569.527 L 222.416,569.855 L 219.191,570.868 L 215.966,571.562 L 212.742,571.950 L 209.517,572.041 L 206.292,571.834 L 203.067,571.322 L 199.843,570.492" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="321_schematic_energy_contour" d="M 299.809,504.878 L 298.402,504.338 L 296.584,503.381 L 294.358,501.622 L 293.360,500.235 L 292.616,498.905 L 292.222,496.189 L 292.943,493.473 L 293.360,492.865 L 295.127,490.757 L 296.584,489.707 L 299.809,488.054 L 299.856,488.041 L 303.034,487.358 L 306.258,487.195 L 309.483,487.564 L 311.171,488.041 L 312.708,488.634 L 315.933,490.642 L 316.068,490.757 L 317.989,493.473 L 318.640,496.189 L 318.058,498.905 L 316.248,501.622 L 315.933,501.913 L 312.708,504.065 L 312.053,504.338 L 309.483,505.164 L 306.258,505.627 L 303.034,505.537 L 299.809,504.878" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="322_schematic_energy_contour" d="M 199.843,577.778 L 199.460,577.676 L 196.618,576.890 L 193.393,575.741 L 191.608,574.959 L 190.169,574.275 L 186.944,572.435 L 186.651,572.243 L 183.719,570.047 L 183.106,569.527 L 180.494,566.874 L 180.437,566.811 L 178.463,564.095 L 177.270,561.863 L 177.023,561.378 L 176.078,558.662 L 175.574,555.946 L 175.492,553.230 L 175.827,550.514 L 176.586,547.797 L 177.270,546.221 L 177.797,545.081 L 179.505,542.365 L 180.494,541.114 L 181.785,539.649 L 183.719,537.800 L 184.761,536.932 L 186.944,535.310 L 188.684,534.216 L 190.169,533.341 L 193.393,531.767 L 194.064,531.500 L 196.618,530.490 L 199.843,529.486 L 202.817,528.784 L 203.067,528.722 L 206.292,528.146 L 209.517,527.776 L 212.742,527.602 L 215.966,527.617 L 219.191,527.823 L 222.416,528.230 L 225.303,528.784 L 225.640,528.849 L 228.865,529.671 L 232.090,530.762 L 233.856,531.500 L 235.315,532.160 L 238.539,533.933 L 238.990,534.216 L 241.764,536.230 L 242.614,536.932 L 244.989,539.334 L 245.276,539.649 L 247.256,542.365 L 248.213,544.209 L 248.657,545.081 L 249.598,547.797 L 250.086,550.514 L 250.156,553.230 L 249.815,555.946 L 249.042,558.662 L 248.213,560.472 L 247.818,561.378 L 246.132,564.095 L 244.989,565.474 L 243.873,566.811 L 241.764,568.792 L 240.943,569.527 L 238.539,571.296 L 237.130,572.243 L 235.315,573.288 L 232.090,574.905 L 231.967,574.959 L 228.865,576.185 L 225.640,577.212 L 223.801,577.676 L 222.416,578.003 L 219.191,578.572 L 215.966,578.938 L 212.742,579.106 L 209.517,579.078 L 206.292,578.853 L 203.067,578.423 L 199.843,577.778" fill="none" stroke="#42A59A" stroke-width="1.5"/>
+<path id="323_schematic_energy_contour" d="M 293.360,515.455 L 292.522,515.203 L 290.135,514.436 L 286.910,512.993 L 286.013,512.486 L 283.685,510.947 L 282.238,509.770 L 280.461,507.905 L 279.753,507.054 L 278.138,504.338 L 277.236,501.719 L 277.204,501.622 L 276.840,498.905 L 277.031,496.189 L 277.236,495.453 L 277.764,493.473 L 279.081,490.757 L 280.461,488.868 L 281.086,488.041 L 283.685,485.554 L 283.949,485.324 L 286.910,483.315 L 288.133,482.608 L 290.135,481.649 L 293.360,480.413 L 295.167,479.892 L 296.584,479.531 L 299.809,478.975 L 303.034,478.696 L 306.258,478.689 L 309.483,478.957 L 312.708,479.510 L 314.164,479.892 L 315.933,480.403 L 319.157,481.681 L 320.983,482.608 L 322.382,483.449 L 324.946,485.324 L 325.607,485.940 L 327.567,488.041 L 328.831,489.937 L 329.331,490.757 L 330.375,493.473 L 330.827,496.189 L 330.711,498.905 L 330.030,501.622 L 328.831,504.207 L 328.763,504.338 L 326.761,507.054 L 325.607,508.267 L 323.899,509.770 L 322.382,510.913 L 319.774,512.486 L 319.157,512.831 L 315.933,514.250 L 312.972,515.203 L 312.708,515.288 L 309.483,516.021 L 306.258,516.459 L 303.034,516.623 L 299.809,516.520 L 296.584,516.140 L 293.360,515.455" fill="none" stroke="#42A59A" stroke-width="1.5"/>
+<path id="324_schematic_energy_contour" d="M 209.517,586.097 L 206.535,585.824 L 206.292,585.803 L 203.067,585.374 L 199.843,584.782 L 196.618,584.014 L 193.579,583.108 L 193.393,583.053 L 190.169,581.906 L 186.944,580.517 L 186.690,580.392 L 183.719,578.863 L 181.730,577.676 L 180.494,576.878 L 177.861,574.959 L 177.270,574.477 L 174.777,572.243 L 174.045,571.480 L 172.292,569.527 L 170.820,567.534 L 170.306,566.811 L 168.746,564.095 L 167.596,561.416 L 167.579,561.378 L 166.747,558.662 L 166.251,555.946 L 166.077,553.230 L 166.214,550.514 L 166.665,547.797 L 167.437,545.081 L 167.596,544.674 L 168.524,542.365 L 169.961,539.649 L 170.820,538.314 L 171.771,536.932 L 173.989,534.216 L 174.045,534.154 L 176.674,531.500 L 177.270,530.949 L 179.906,528.784 L 180.494,528.322 L 183.719,526.116 L 183.801,526.068 L 186.944,524.191 L 188.614,523.351 L 190.169,522.542 L 193.393,521.118 L 194.694,520.635 L 196.618,519.865 L 199.843,518.784 L 202.978,517.919 L 203.067,517.892 L 206.292,517.068 L 209.517,516.400 L 212.742,515.867 L 215.966,515.452 L 218.567,515.203 L 219.191,515.132 L 222.416,514.880 L 225.640,514.716 L 228.865,514.624 L 232.090,514.582 L 235.315,514.562 L 238.539,514.523 L 241.764,514.399 L 244.989,514.076 L 248.213,513.334 L 250.061,512.486 L 251.438,511.584 L 253.034,509.770 L 254.640,507.054 L 254.663,507.011 L 255.703,504.338 L 256.738,501.622 L 257.888,498.917 L 257.892,498.905 L 259.089,496.189 L 260.589,493.473 L 261.112,492.724 L 262.329,490.757 L 264.337,488.229 L 264.475,488.041 L 266.989,485.324 L 267.562,484.823 L 270.054,482.608 L 270.787,482.070 L 273.846,479.892 L 274.011,479.792 L 277.236,477.920 L 278.657,477.176 L 280.461,476.342 L 283.685,475.035 L 285.355,474.459 L 286.910,473.964 L 290.135,473.112 L 293.360,472.462 L 296.584,472.006 L 299.710,471.743 L 299.809,471.735 L 303.034,471.644 L 306.258,471.740 L 306.300,471.743 L 309.483,472.020 L 312.708,472.497 L 315.933,473.186 L 319.157,474.107 L 320.149,474.459 L 322.382,475.291 L 325.607,476.772 L 326.357,477.176 L 328.831,478.644 L 330.644,479.892 L 332.056,481.015 L 333.855,482.608 L 335.281,484.144 L 336.303,485.324 L 338.148,488.041 L 338.506,488.751 L 339.498,490.757 L 340.403,493.473 L 340.900,496.189 L 341.016,498.905 L 340.760,501.622 L 340.132,504.338 L 339.119,507.054 L 338.506,508.282 L 337.706,509.770 L 335.868,512.486 L 335.281,513.236 L 333.549,515.203 L 332.056,516.723 L 330.697,517.919 L 328.831,519.493 L 327.223,520.635 L 325.607,521.806 L 323.016,523.351 L 322.382,523.761 L 319.157,525.492 L 317.821,526.068 L 315.933,527.023 L 312.708,528.321 L 311.250,528.784 L 309.483,529.499 L 306.258,530.513 L 303.034,531.291 L 301.895,531.500 L 299.809,532.038 L 296.584,532.674 L 293.360,533.194 L 290.135,533.675 L 286.914,534.216 L 286.910,534.217 L 283.685,535.270 L 280.593,536.932 L 280.461,537.064 L 278.675,539.649 L 277.816,542.365 L 277.416,545.081 L 277.236,547.309 L 277.206,547.797 L 277.029,550.514 L 276.658,553.230 L 275.774,555.946 L 274.011,558.305 L 273.819,558.662 L 271.380,561.378 L 270.787,561.803 L 268.439,564.095 L 267.562,564.713 L 265.194,566.811 L 264.337,567.400 L 261.702,569.527 L 261.112,569.915 L 257.909,572.243 L 257.888,572.256 L 254.663,574.381 L 253.798,574.959 L 251.438,576.327 L 249.032,577.676 L 248.213,578.085 L 244.989,579.641 L 243.297,580.392 L 241.764,581.017 L 238.539,582.213 L 235.742,583.108 L 235.315,583.238 L 232.090,584.114 L 228.865,584.829 L 225.640,585.391 L 222.416,585.807 L 222.220,585.824 L 219.191,586.095 L 215.966,586.239 L 212.742,586.241 L 209.517,586.097" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="325_schematic_energy_contour" d="M 306.258,583.212 L 305.932,583.108 L 303.034,582.012 L 299.809,580.493 L 299.612,580.392 L 296.584,578.415 L 295.503,577.676 L 293.360,575.730 L 292.466,574.959 L 290.176,572.243 L 290.135,572.170 L 288.300,569.527 L 287.031,566.811 L 286.910,566.316 L 286.070,564.095 L 285.725,561.378 L 286.323,558.662 L 286.910,557.814 L 288.135,555.946 L 290.135,554.381 L 291.793,553.230 L 293.360,552.413 L 296.584,551.036 L 298.221,550.514 L 299.809,550.030 L 303.034,549.332 L 306.258,548.963 L 309.483,548.873 L 312.708,549.039 L 315.933,549.462 L 319.157,550.162 L 320.254,550.514 L 322.382,551.090 L 325.607,552.309 L 327.425,553.230 L 328.831,553.913 L 331.984,555.946 L 332.056,555.996 L 335.099,558.662 L 335.281,558.853 L 337.253,561.378 L 338.506,563.668 L 338.708,564.095 L 339.456,566.811 L 339.591,569.527 L 339.096,572.243 L 338.506,573.629 L 337.886,574.959 L 335.832,577.676 L 335.281,578.204 L 332.568,580.392 L 332.056,580.721 L 328.831,582.376 L 326.899,583.108 L 325.607,583.537 L 322.382,584.260 L 319.157,584.654 L 315.933,584.737 L 312.708,584.522 L 309.483,584.013 L 306.258,583.212" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="326_schematic_energy_contour" d="M 209.517,594.217 L 207.655,593.973 L 206.292,593.810 L 203.067,593.309 L 199.843,592.685 L 196.618,591.924 L 194.254,591.257 L 193.393,591.026 L 190.169,590.012 L 186.944,588.811 L 186.302,588.541 L 183.719,587.461 L 180.494,585.891 L 180.370,585.824 L 177.270,584.119 L 175.643,583.108 L 174.045,582.065 L 171.728,580.392 L 170.820,579.684 L 168.443,577.676 L 167.596,576.880 L 165.665,574.959 L 164.371,573.485 L 163.318,572.243 L 161.355,569.527 L 161.146,569.183 L 159.701,566.811 L 158.375,564.095 L 157.921,562.909 L 157.317,561.378 L 156.516,558.662 L 155.975,555.946 L 155.678,553.230 L 155.613,550.514 L 155.775,547.797 L 156.163,545.081 L 156.781,542.365 L 157.635,539.649 L 157.921,538.907 L 158.698,536.932 L 159.997,534.216 L 161.146,532.170 L 161.540,531.500 L 163.313,528.784 L 164.371,527.317 L 165.338,526.068 L 167.596,523.372 L 167.614,523.351 L 170.146,520.635 L 170.820,519.930 L 172.940,517.919 L 174.045,516.871 L 175.997,515.203 L 177.270,514.090 L 179.313,512.486 L 180.494,511.520 L 182.878,509.770 L 183.719,509.119 L 186.677,507.054 L 186.944,506.856 L 190.169,504.676 L 190.720,504.338 L 193.393,502.580 L 194.990,501.622 L 196.618,500.581 L 199.462,498.905 L 199.843,498.669 L 203.067,496.808 L 204.218,496.189 L 206.292,495.030 L 209.260,493.473 L 209.517,493.336 L 212.742,491.710 L 214.732,490.757 L 215.966,490.166 L 219.191,488.692 L 220.666,488.041 L 222.416,487.285 L 225.640,485.927 L 227.083,485.324 L 228.865,484.611 L 232.090,483.318 L 233.822,482.608 L 235.315,482.033 L 238.539,480.749 L 240.600,479.892 L 241.764,479.444 L 244.989,478.137 L 247.260,477.176 L 248.213,476.807 L 251.438,475.491 L 253.915,474.459 L 254.663,474.176 L 257.888,472.905 L 260.907,471.743 L 261.112,471.671 L 264.337,470.506 L 267.562,469.415 L 268.751,469.027 L 270.787,468.406 L 274.011,467.490 L 277.236,466.682 L 278.893,466.311 L 280.461,465.971 L 283.685,465.358 L 286.910,464.861 L 290.135,464.481 L 293.360,464.216 L 296.584,464.068 L 299.809,464.037 L 303.034,464.126 L 306.258,464.341 L 309.483,464.688 L 312.708,465.178 L 315.933,465.826 L 317.853,466.311 L 319.157,466.627 L 322.382,467.584 L 325.607,468.753 L 326.262,469.027 L 328.831,470.118 L 332.056,471.743 L 332.056,471.743 L 335.281,473.650 L 336.495,474.459 L 338.506,475.928 L 340.066,477.176 L 341.730,478.686 L 342.983,479.892 L 344.955,482.125 L 345.370,482.608 L 347.333,485.324 L 348.180,486.793 L 348.912,488.041 L 350.160,490.757 L 351.081,493.473 L 351.404,494.869 L 351.734,496.189 L 352.130,498.905 L 352.269,501.622 L 352.164,504.338 L 351.824,507.054 L 351.404,509.103 L 351.266,509.770 L 350.519,512.486 L 349.565,515.203 L 348.423,517.919 L 348.180,518.466 L 347.150,520.635 L 345.768,523.351 L 344.955,524.966 L 344.354,526.068 L 343.015,528.784 L 341.894,531.500 L 341.730,532.119 L 341.143,534.216 L 340.916,536.932 L 341.288,539.649 L 341.730,540.899 L 342.209,542.365 L 343.525,545.081 L 344.955,547.585 L 345.064,547.797 L 346.617,550.514 L 348.068,553.230 L 348.180,553.450 L 349.328,555.946 L 350.336,558.662 L 351.058,561.378 L 351.404,563.616 L 351.476,564.095 L 351.576,566.811 L 351.404,568.662 L 351.329,569.527 L 350.724,572.243 L 349.713,574.959 L 348.239,577.676 L 348.180,577.759 L 346.251,580.392 L 344.955,581.779 L 343.611,583.108 L 341.730,584.656 L 340.121,585.824 L 338.506,586.858 L 335.391,588.541 L 335.281,588.596 L 332.056,589.976 L 328.831,591.064 L 328.099,591.257 L 325.607,591.919 L 322.382,592.556 L 319.157,592.993 L 315.933,593.251 L 312.708,593.346 L 309.483,593.287 L 306.258,593.085 L 303.034,592.748 L 299.809,592.287 L 296.584,591.719 L 294.239,591.257 L 293.360,591.070 L 290.135,590.375 L 286.910,589.672 L 283.685,589.019 L 280.818,588.541 L 280.461,588.476 L 277.236,588.097 L 274.011,587.933 L 270.787,587.999 L 267.562,588.278 L 265.709,588.541 L 264.337,588.729 L 261.112,589.305 L 257.888,589.957 L 254.663,590.637 L 251.700,591.257 L 251.438,591.310 L 248.213,591.967 L 244.989,592.576 L 241.764,593.121 L 238.539,593.596 L 235.491,593.973 L 235.315,593.995 L 232.090,594.335 L 228.865,594.592 L 225.640,594.762 L 222.416,594.844 L 219.191,594.834 L 215.966,594.730 L 212.742,594.526 L 209.517,594.217" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="327_schematic_energy_contour" d="M 232.090,607.700 L 230.101,607.554 L 228.865,607.470 L 225.640,607.200 L 222.416,606.881 L 219.191,606.509 L 215.966,606.078 L 212.742,605.582 L 209.517,605.015 L 208.639,604.838 L 206.292,604.402 L 203.067,603.719 L 199.843,602.944 L 196.822,602.122 L 196.618,602.070 L 193.393,601.150 L 190.169,600.105 L 188.242,599.405 L 186.944,598.956 L 183.719,597.706 L 181.387,596.689 L 180.494,596.311 L 177.270,594.796 L 175.693,593.973 L 174.045,593.117 L 170.835,591.257 L 170.820,591.248 L 167.596,589.204 L 166.636,588.541 L 164.371,586.913 L 162.963,585.824 L 161.146,584.335 L 159.734,583.108 L 157.921,581.403 L 156.890,580.392 L 154.697,578.017 L 154.389,577.676 L 152.174,574.959 L 151.472,573.978 L 150.230,572.243 L 148.556,569.527 L 148.247,568.946 L 147.083,566.811 L 145.844,564.095 L 145.022,561.900 L 144.818,561.378 L 143.951,558.662 L 143.280,555.946 L 142.790,553.230 L 142.468,550.514 L 142.304,547.797 L 142.290,545.081 L 142.422,542.365 L 142.696,539.649 L 143.108,536.932 L 143.656,534.216 L 144.335,531.500 L 145.022,529.167 L 145.138,528.784 L 146.043,526.068 L 147.070,523.351 L 148.210,520.635 L 148.247,520.550 L 149.448,517.919 L 150.793,515.203 L 151.472,513.897 L 152.240,512.486 L 153.792,509.770 L 154.697,508.257 L 155.451,507.054 L 157.223,504.338 L 157.921,503.310 L 159.121,501.622 L 161.140,498.905 L 161.146,498.898 L 163.325,496.189 L 164.371,494.947 L 165.665,493.473 L 167.596,491.369 L 168.181,490.757 L 170.820,488.117 L 170.900,488.041 L 173.857,485.324 L 174.045,485.159 L 177.073,482.608 L 177.270,482.450 L 180.494,479.959 L 180.586,479.892 L 183.719,477.674 L 184.456,477.176 L 186.944,475.564 L 188.727,474.459 L 190.169,473.605 L 193.393,471.781 L 193.464,471.743 L 196.618,470.115 L 198.837,469.027 L 199.843,468.554 L 203.067,467.116 L 204.977,466.311 L 206.292,465.779 L 209.517,464.548 L 212.174,463.595 L 212.742,463.399 L 215.966,462.357 L 219.191,461.385 L 220.999,460.878 L 222.416,460.496 L 225.640,459.690 L 228.865,458.946 L 232.090,458.263 L 232.609,458.162 L 235.315,457.656 L 238.539,457.104 L 241.764,456.602 L 244.989,456.148 L 248.213,455.737 L 250.747,455.446 L 251.438,455.369 L 254.663,455.041 L 257.888,454.746 L 261.112,454.481 L 264.337,454.245 L 267.562,454.040 L 270.787,453.867 L 274.011,453.727 L 277.236,453.623 L 280.461,453.558 L 283.685,453.537 L 286.910,453.563 L 290.135,453.641 L 293.360,453.777 L 296.584,453.975 L 299.809,454.244 L 303.034,454.589 L 306.258,455.020 L 308.873,455.446 L 309.483,455.536 L 312.708,456.112 L 315.933,456.798 L 319.157,457.607 L 321.068,458.162 L 322.382,458.522 L 325.607,459.540 L 328.831,460.727 L 329.201,460.878 L 332.056,462.021 L 335.281,463.516 L 335.438,463.595 L 338.506,465.158 L 340.516,466.311 L 341.730,467.030 L 344.784,469.027 L 344.955,469.146 L 348.180,471.542 L 348.436,471.743 L 351.404,474.294 L 351.589,474.459 L 354.335,477.176 L 354.629,477.506 L 356.743,479.892 L 357.854,481.349 L 358.829,482.608 L 360.636,485.324 L 361.079,486.108 L 362.224,488.041 L 363.576,490.757 L 364.303,492.516 L 364.728,493.473 L 365.728,496.189 L 366.545,498.905 L 367.207,501.622 L 367.528,503.293 L 367.749,504.338 L 368.186,507.054 L 368.514,509.770 L 368.748,512.486 L 368.902,515.203 L 368.986,517.919 L 369.009,520.635 L 368.981,523.351 L 368.906,526.068 L 368.791,528.784 L 368.643,531.500 L 368.470,534.216 L 368.282,536.932 L 368.091,539.649 L 367.906,542.365 L 367.734,545.081 L 367.576,547.797 L 367.528,548.642 L 367.429,550.514 L 367.276,553.230 L 367.095,555.946 L 366.861,558.662 L 366.544,561.378 L 366.112,564.095 L 365.533,566.811 L 364.771,569.527 L 364.303,570.812 L 363.826,572.243 L 362.669,574.959 L 361.212,577.676 L 361.079,577.881 L 359.509,580.392 L 357.854,582.550 L 357.428,583.108 L 354.964,585.824 L 354.629,586.147 L 352.031,588.541 L 351.404,589.055 L 348.507,591.257 L 348.180,591.486 L 344.955,593.556 L 344.223,593.973 L 341.730,595.347 L 338.893,596.689 L 338.506,596.873 L 335.281,598.230 L 332.056,599.367 L 331.928,599.405 L 328.831,600.403 L 325.607,601.276 L 322.382,602.007 L 321.775,602.122 L 319.157,602.672 L 315.933,603.240 L 312.708,603.717 L 309.483,604.122 L 306.258,604.469 L 303.034,604.774 L 302.253,604.838 L 299.809,605.062 L 296.584,605.332 L 293.360,605.590 L 290.135,605.843 L 286.910,606.097 L 283.685,606.355 L 280.461,606.614 L 277.236,606.873 L 274.011,607.123 L 270.787,607.360 L 267.895,607.554 L 267.562,607.576 L 264.337,607.765 L 261.112,607.924 L 257.888,608.050 L 254.663,608.141 L 251.438,608.196 L 248.213,608.213 L 244.989,608.192 L 241.764,608.131 L 238.539,608.030 L 235.315,607.887 L 232.090,607.700" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="328_schematic_energy_contour" d="M 232.090,624.049 L 230.665,623.851 L 228.865,623.600 L 225.640,623.099 L 222.416,622.548 L 219.191,621.945 L 215.966,621.289 L 215.270,621.135 L 212.742,620.580 L 209.517,619.817 L 206.292,618.996 L 204.183,618.419 L 203.067,618.118 L 199.843,617.184 L 196.618,616.182 L 195.176,615.703 L 193.393,615.120 L 190.169,613.990 L 187.501,612.986 L 186.944,612.781 L 183.719,611.508 L 180.812,610.270 L 180.494,610.137 L 177.270,608.696 L 174.899,607.554 L 174.045,607.146 L 170.820,605.500 L 169.606,604.838 L 167.596,603.741 L 164.834,602.122 L 164.371,601.848 L 161.146,599.824 L 160.516,599.405 L 157.921,597.645 L 156.591,596.689 L 154.697,595.286 L 153.012,593.973 L 151.472,592.722 L 149.744,591.257 L 148.247,589.920 L 146.757,588.541 L 145.022,586.832 L 144.026,585.824 L 141.798,583.399 L 141.535,583.108 L 139.249,580.392 L 138.573,579.514 L 137.164,577.676 L 135.348,575.054 L 135.282,574.959 L 133.550,572.243 L 132.124,569.727 L 132.009,569.527 L 130.596,566.811 L 129.352,564.095 L 128.899,562.971 L 128.239,561.378 L 127.255,558.662 L 126.407,555.946 L 125.686,553.230 L 125.674,553.177 L 125.066,550.514 L 124.563,547.797 L 124.171,545.081 L 123.886,542.365 L 123.704,539.649 L 123.623,536.932 L 123.641,534.216 L 123.757,531.500 L 123.970,528.784 L 124.281,526.068 L 124.690,523.351 L 125.197,520.635 L 125.674,518.486 L 125.803,517.919 L 126.517,515.203 L 127.336,512.486 L 128.258,509.770 L 128.899,508.073 L 129.293,507.054 L 130.450,504.338 L 131.717,501.622 L 132.124,500.818 L 133.117,498.905 L 134.641,496.189 L 135.348,495.016 L 136.304,493.473 L 138.103,490.757 L 138.573,490.091 L 140.060,488.041 L 141.798,485.785 L 142.163,485.324 L 144.440,482.608 L 145.022,481.950 L 146.897,479.892 L 148.247,478.484 L 149.539,477.176 L 151.472,475.312 L 152.383,474.459 L 154.697,472.394 L 155.448,471.743 L 157.921,469.697 L 158.757,469.027 L 161.146,467.193 L 162.334,466.311 L 164.371,464.859 L 166.206,463.595 L 167.596,462.674 L 170.405,460.878 L 170.820,460.623 L 174.045,458.710 L 175.004,458.162 L 177.270,456.915 L 180.045,455.446 L 180.494,455.217 L 183.719,453.635 L 185.646,452.730 L 186.944,452.141 L 190.169,450.740 L 191.922,450.014 L 193.393,449.424 L 196.618,448.192 L 199.085,447.297 L 199.843,447.031 L 203.067,445.958 L 206.292,444.944 L 207.519,444.581 L 209.517,444.008 L 212.742,443.141 L 215.966,442.331 L 217.965,441.865 L 219.191,441.587 L 222.416,440.913 L 225.640,440.295 L 228.865,439.732 L 232.090,439.225 L 232.634,439.149 L 235.315,438.784 L 238.539,438.398 L 241.764,438.065 L 244.989,437.785 L 248.213,437.558 L 251.438,437.382 L 254.663,437.259 L 257.888,437.186 L 261.112,437.164 L 264.337,437.191 L 267.562,437.268 L 270.787,437.393 L 274.011,437.566 L 277.236,437.785 L 280.461,438.052 L 283.685,438.365 L 286.910,438.726 L 290.135,439.134 L 290.235,439.149 L 293.360,439.588 L 296.584,440.090 L 299.809,440.644 L 303.034,441.251 L 306.010,441.865 L 306.258,441.914 L 309.483,442.620 L 312.708,443.391 L 315.933,444.233 L 317.160,444.581 L 319.157,445.129 L 322.382,446.095 L 325.607,447.152 L 326.019,447.297 L 328.831,448.265 L 332.056,449.482 L 333.361,450.014 L 335.281,450.783 L 338.506,452.192 L 339.651,452.730 L 341.730,453.702 L 344.955,455.348 L 345.138,455.446 L 348.180,457.105 L 349.981,458.162 L 351.404,459.017 L 354.306,460.878 L 354.629,461.093 L 357.854,463.344 L 358.198,463.595 L 361.079,465.799 L 361.724,466.311 L 364.303,468.486 L 364.929,469.027 L 367.528,471.439 L 367.852,471.743 L 370.530,474.459 L 370.753,474.705 L 373.000,477.176 L 373.978,478.354 L 375.264,479.892 L 377.202,482.432 L 377.338,482.608 L 379.272,485.324 L 380.427,487.108 L 381.043,488.041 L 382.684,490.757 L 383.652,492.513 L 384.191,493.473 L 385.586,496.189 L 386.859,498.905 L 386.876,498.946 L 388.032,501.622 L 389.096,504.338 L 390.058,507.054 L 390.101,507.193 L 390.916,509.770 L 391.674,512.486 L 392.332,515.203 L 392.890,517.919 L 393.326,520.509 L 393.347,520.635 L 393.696,523.351 L 393.943,526.068 L 394.086,528.784 L 394.126,531.500 L 394.061,534.216 L 393.892,536.932 L 393.618,539.649 L 393.326,541.757 L 393.240,542.365 L 392.752,545.081 L 392.163,547.797 L 391.476,550.514 L 390.691,553.230 L 390.101,555.044 L 389.808,555.946 L 388.827,558.662 L 387.753,561.378 L 386.876,563.406 L 386.584,564.095 L 385.322,566.811 L 383.949,569.527 L 383.652,570.063 L 382.480,572.243 L 380.877,574.959 L 380.427,575.655 L 379.157,577.676 L 377.262,580.392 L 377.202,580.470 L 375.229,583.108 L 373.978,584.615 L 372.986,585.824 L 370.753,588.277 L 370.513,588.541 L 367.800,591.257 L 367.528,591.508 L 364.801,593.973 L 364.303,594.392 L 361.467,596.689 L 361.079,596.986 L 357.854,599.332 L 357.747,599.405 L 354.629,601.476 L 353.579,602.122 L 351.404,603.437 L 348.882,604.838 L 348.180,605.227 L 344.955,606.891 L 343.551,607.554 L 341.730,608.430 L 338.506,609.854 L 337.482,610.270 L 335.281,611.194 L 332.056,612.440 L 330.524,612.986 L 328.831,613.612 L 325.607,614.721 L 322.537,615.703 L 322.382,615.754 L 319.157,616.748 L 315.933,617.679 L 313.208,618.419 L 312.708,618.557 L 309.483,619.390 L 306.258,620.173 L 303.034,620.907 L 301.961,621.135 L 299.809,621.590 L 296.584,622.223 L 293.360,622.807 L 290.135,623.342 L 286.910,623.827 L 286.729,623.851 L 283.685,624.252 L 280.461,624.626 L 277.236,624.949 L 274.011,625.221 L 270.787,625.441 L 267.562,625.608 L 264.337,625.724 L 261.112,625.787 L 257.888,625.798 L 254.663,625.758 L 251.438,625.666 L 248.213,625.523 L 244.989,625.329 L 241.764,625.084 L 238.539,624.789 L 235.315,624.444 L 232.090,624.049" fill="none" stroke="#42A59A" stroke-width="1.5"/>
+<path id="329_schematic_energy_contour" d="M 196.028,632.000 L 193.393,631.173 L 190.169,630.109 L 187.789,629.284 L 186.944,628.985 L 183.719,627.790 L 180.571,626.568 L 180.494,626.537 L 177.270,625.204 L 174.141,623.851 L 174.045,623.809 L 170.820,622.328 L 168.334,621.135 L 167.596,620.774 L 164.371,619.131 L 163.028,618.419 L 161.146,617.400 L 158.140,615.703 L 157.921,615.577 L 154.697,613.645 L 153.638,612.986 L 151.472,611.605 L 149.458,610.270 L 148.247,609.446 L 145.568,607.554 L 145.022,607.157 L 141.943,604.838 L 141.798,604.725 L 138.573,602.130 L 138.562,602.122 L 135.405,599.405 L 135.348,599.355 L 132.454,596.689 L 132.124,596.371 L 129.694,593.973 L 128.899,593.149 L 127.113,591.257 L 125.674,589.650 L 124.700,588.541 L 122.449,585.831 L 122.444,585.824 L 120.341,583.108 L 119.225,581.570 L 118.381,580.392 L 116.556,577.676 L 116.000,576.790" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="330_schematic_energy_contour" d="M 403.000,575.832 L 401.829,577.676 L 399.993,580.392 L 399.775,580.696 L 398.019,583.108 L 396.551,585.013 L 395.915,585.824 L 393.667,588.541 L 393.326,588.932 L 391.263,591.257 L 390.101,592.501 L 388.700,593.973 L 386.876,595.796 L 385.965,596.689 L 383.652,598.850 L 383.043,599.405 L 380.427,601.689 L 379.918,602.122 L 377.202,604.338 L 376.572,604.838 L 373.978,606.818 L 372.982,607.554 L 370.753,609.146 L 369.125,610.270 L 367.528,611.339 L 364.976,612.986 L 364.303,613.409 L 361.079,615.361 L 360.493,615.703 L 357.854,617.204 L 355.630,618.419 L 354.629,618.953 L 351.404,620.609 L 350.336,621.135 L 348.180,622.176 L 344.955,623.668 L 344.542,623.851 L 341.730,625.075 L 338.506,626.418 L 338.129,626.568 L 335.281,627.680 L 332.056,628.884 L 330.935,629.284 L 328.831,630.017 L 325.607,631.090 L 322.731,632.000" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="331_schematic_energy_contour" d="M 116.000,487.279 L 117.260,485.324 L 119.116,482.608 L 119.225,482.458 L 121.121,479.892 L 122.449,478.187 L 123.256,477.176 L 125.533,474.459 L 125.674,474.299 L 127.976,471.743 L 128.899,470.764 L 130.577,469.027 L 132.124,467.494 L 133.348,466.311 L 135.348,464.457 L 136.303,463.595 L 138.573,461.625 L 139.457,460.878 L 141.798,458.975 L 142.825,458.162 L 145.022,456.487 L 146.428,455.446 L 148.247,454.145 L 150.284,452.730 L 151.472,451.933 L 154.418,450.014 L 154.697,449.838 L 157.921,447.868 L 158.885,447.297 L 161.146,446.002 L 163.708,444.581 L 164.371,444.225 L 167.596,442.549 L 168.960,441.865 L 170.820,440.959 L 174.045,439.446 L 174.702,439.149 L 177.270,438.022 L 180.494,436.661 L 181.059,436.432 L 183.719,435.385 L 186.944,434.169 L 188.198,433.716 L 190.169,433.025 L 193.393,431.944 L 196.352,431.000" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="332_schematic_energy_contour" d="M 323.132,431.000 L 325.607,431.772 L 328.831,432.833 L 331.378,433.716 L 332.056,433.955 L 335.281,435.148 L 338.506,436.402 L 338.579,436.432 L 341.730,437.736 L 344.955,439.138 L 344.979,439.149 L 348.180,440.626 L 350.742,441.865 L 351.404,442.192 L 354.629,443.851 L 355.993,444.581 L 357.854,445.602 L 360.816,447.297 L 361.079,447.451 L 364.303,449.415 L 365.253,450.014 L 367.528,451.494 L 369.363,452.730 L 370.753,453.698 L 373.184,455.446 L 373.978,456.038 L 376.743,458.162 L 377.202,458.529 L 380.065,460.878 L 380.427,461.189 L 383.170,463.595 L 383.652,464.037 L 386.076,466.311 L 386.876,467.098 L 388.799,469.027 L 390.101,470.400 L 391.352,471.743 L 393.326,473.974 L 393.748,474.459 L 395.991,477.176 L 396.551,477.892 L 398.088,479.892 L 399.775,482.215 L 400.056,482.608 L 401.887,485.324 L 403.000,487.081" fill="none" stroke="#198A7F" stroke-width="1.5"/>
+<path id="333_schematic_energy_contour" d="M 157.166,632.000 L 154.697,630.743 L 151.922,629.284 L 151.472,629.041 L 148.247,627.246 L 147.064,626.568 L 145.022,625.365 L 142.529,623.851 L 141.798,623.395 L 138.573,621.325 L 138.286,621.135 L 135.348,619.139 L 134.316,618.419 L 132.124,616.841 L 130.582,615.703 L 128.899,614.420 L 127.066,612.986 L 125.674,611.862 L 123.753,610.270 L 122.449,609.153 L 120.628,607.554 L 119.225,606.278 L 117.678,604.838 L 116.000,603.216" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="334_schematic_energy_contour" d="M 403.000,603.134 L 401.239,604.838 L 399.775,606.202 L 398.291,607.554 L 396.551,609.083 L 395.168,610.270 L 393.326,611.798 L 391.857,612.986 L 390.101,614.361 L 388.345,615.703 L 386.876,616.788 L 384.614,618.419 L 383.652,619.092 L 380.649,621.135 L 380.427,621.282 L 377.202,623.356 L 376.410,623.851 L 373.978,625.329 L 371.879,626.568 L 370.753,627.214 L 367.528,629.012 L 367.025,629.284 L 364.303,630.716 L 361.787,632.000" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="335_schematic_energy_contour" d="M 116.000,459.877 L 117.774,458.162 L 119.225,456.810 L 120.723,455.446 L 122.449,453.929 L 123.847,452.730 L 125.674,451.215 L 127.159,450.014 L 128.899,448.651 L 130.672,447.297 L 132.124,446.224 L 134.402,444.581 L 135.348,443.920 L 138.367,441.865 L 138.573,441.729 L 141.798,439.655 L 142.606,439.149 L 145.022,437.681 L 147.135,436.432 L 148.247,435.794 L 151.472,433.996 L 151.988,433.716 L 154.697,432.290 L 157.224,431.000" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="336_schematic_energy_contour" d="M 361.824,431.000 L 364.303,432.264 L 367.062,433.716 L 367.528,433.968 L 370.753,435.766 L 371.914,436.432 L 373.978,437.651 L 376.442,439.149 L 377.202,439.624 L 380.427,441.698 L 380.679,441.865 L 383.652,443.889 L 384.642,444.581 L 386.876,446.192 L 388.370,447.297 L 390.101,448.620 L 391.880,450.014 L 393.326,451.184 L 395.189,452.730 L 396.551,453.900 L 398.309,455.446 L 399.775,456.782 L 401.255,458.162 L 403.000,459.851" fill="none" stroke="#9AD2CC" stroke-width="1.5"/>
+<path id="337_schematic_energy_contour" d="M 129.360,632.000 L 128.899,631.706 L 125.674,629.597 L 125.207,629.284 L 122.449,627.385 L 121.291,626.568 L 119.225,625.068 L 117.586,623.851 L 116.000,622.638" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="338_schematic_energy_contour" d="M 403.000,622.632 L 401.406,623.851 L 399.775,625.063 L 397.702,626.568 L 396.551,627.380 L 393.786,629.284 L 393.326,629.592 L 390.101,631.702 L 389.634,632.000" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="339_schematic_energy_contour" d="M 116.000,440.368 L 117.594,439.149 L 119.225,437.938 L 121.299,436.432 L 122.449,435.621 L 125.214,433.716 L 125.674,433.408 L 128.899,431.299 L 129.367,431.000" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="340_schematic_energy_contour" d="M 389.636,431.000 L 390.101,431.297 L 393.326,433.406 L 393.789,433.716 L 396.551,435.619 L 397.704,436.432 L 399.775,437.936 L 401.408,439.149 L 403.000,440.366" fill="none" stroke="#72BFB5" stroke-width="1.5"/>
+<path id="341_line" d="M 116.000,431.000 L 116.000,632.000" fill="none" stroke="#647585" stroke-width="1.3"/>
+<path id="342_line" d="M 116.000,632.000 L 403.000,632.000" fill="none" stroke="#647585" stroke-width="1.3"/>
+<ellipse id="343_atom" cx="205.6875" cy="556.625" rx="5.0" ry="5.0" fill="#B98426"/>
+<ellipse id="344_atom" cx="308.828125" cy="493.8125" rx="5.0" ry="5.0" fill="#B98426"/>
+<ellipse id="345_atom" cx="322.28125" cy="572.328125" rx="5.0" ry="5.0" fill="#B98426"/>
+<text id="346_text" x="87" y="537" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">φ₂</text>
+<text id="347_text" x="259.5" y="664" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">φ₁</text>
+<text id="348_text" x="256.0" y="704" fill="#07867F" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle">Explore the energy landscape</text>
+<text id="349_text" x="256.0" y="747" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">CREST • MC • MD</text>
+<path id="350_diarylmethanol_bond" d="M 611.438,277.204 L 603.638,294.011" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="351_diarylmethanol_bond" d="M 603.638,294.011 L 595.837,310.817" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="352_diarylmethanol_bond" d="M 597.408,313.013 L 574.144,329.661" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="353_diarylmethanol_bond" d="M 574.144,329.661 L 550.880,346.309" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="354_diarylmethanol_bond" d="M 594.266,308.622 L 571.001,325.270" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="355_diarylmethanol_bond" d="M 571.001,325.270 L 547.737,341.918" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="356_diarylmethanol_bond" d="M 549.309,344.113 L 541.079,360.057" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="357_diarylmethanol_bond" d="M 541.079,360.057 L 532.849,376.000" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="358_diarylmethanol_bond" d="M 532.767,373.301 L 547.634,372.850" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="359_diarylmethanol_bond" d="M 547.634,372.850 L 562.501,372.398" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="360_diarylmethanol_bond" d="M 532.931,378.699 L 547.798,378.247" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="361_diarylmethanol_bond" d="M 547.798,378.247 L 562.665,377.796" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="362_diarylmethanol_bond" d="M 562.583,375.097 L 585.705,358.711" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="363_diarylmethanol_bond" d="M 585.705,358.711 L 608.827,342.325" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="364_diarylmethanol_bond" d="M 606.454,341.037 L 615.235,324.855" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="365_diarylmethanol_bond" d="M 615.235,324.855 L 624.017,308.673" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="366_diarylmethanol_bond" d="M 611.200,343.613 L 619.982,327.430" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="367_diarylmethanol_bond" d="M 619.982,327.430 L 628.763,311.248" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="368_diarylmethanol_bond" d="M 626.390,309.960 L 651.646,292.190" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="369_diarylmethanol_bond" d="M 651.646,292.190 L 676.903,274.420" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="370_diarylmethanol_bond" d="M 676.903,274.420 L 670.931,253.710" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="371_diarylmethanol_bond" d="M 670.931,253.710 L 664.959,233.000" fill="none" stroke="#D74646" stroke-width="3.1"/>
+<path id="372_diarylmethanol_bond" d="M 676.903,274.420 L 702.526,290.228" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="373_diarylmethanol_bond" d="M 702.526,290.228 L 728.149,306.037" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="374_diarylmethanol_bond" d="M 730.549,304.800 L 740.787,324.669" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="375_diarylmethanol_bond" d="M 740.787,324.669 L 751.025,344.537" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="376_diarylmethanol_bond" d="M 725.749,307.274 L 735.987,327.142" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="377_diarylmethanol_bond" d="M 735.987,327.142 L 746.224,347.011" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="378_diarylmethanol_bond" d="M 748.624,345.774 L 772.157,360.476" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="379_diarylmethanol_bond" d="M 772.157,360.476 L 795.690,375.179" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="380_diarylmethanol_bond" d="M 794.768,372.641 L 808.499,367.653" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="381_diarylmethanol_bond" d="M 808.499,367.653 L 822.229,362.664" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="382_diarylmethanol_bond" d="M 796.612,377.716 L 810.343,372.728" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="383_diarylmethanol_bond" d="M 810.343,372.728 L 824.073,367.740" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="384_diarylmethanol_bond" d="M 823.151,365.202 L 813.384,345.514" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="385_diarylmethanol_bond" d="M 813.384,345.514 L 803.616,325.826" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="386_diarylmethanol_bond" d="M 802.186,328.116 L 778.637,313.413" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="387_diarylmethanol_bond" d="M 778.637,313.413 L 755.088,298.710" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="388_diarylmethanol_bond" d="M 805.046,323.535 L 781.497,308.833" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="389_diarylmethanol_bond" d="M 781.497,308.833 L 757.948,294.130" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="390_diarylmethanol_bond" d="M 626.390,309.960 L 611.113,310.389" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="391_diarylmethanol_bond" d="M 611.113,310.389 L 595.837,310.817" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="392_diarylmethanol_bond" d="M 756.518,296.420 L 742.334,301.229" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="393_diarylmethanol_bond" d="M 742.334,301.229 L 728.149,306.037" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="394_diarylmethanol_bond" d="M 676.903,274.420 L 681.689,263.384" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<path id="395_diarylmethanol_bond" d="M 681.689,263.384 L 686.476,252.347" fill="none" stroke="#6F7C88" stroke-width="3.1"/>
+<ellipse id="396_diarylmethanol_C" cx="611.4384557996553" cy="277.2044788232215" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="397_diarylmethanol_C_light" cx="609.8784557996554" cy="275.4884788232215" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="398_diarylmethanol_C_highlight" cx="608.6304557996554" cy="274.3184788232215" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="399_diarylmethanol_C" cx="549.3086781197994" cy="344.1133111716914" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="400_diarylmethanol_C_light" cx="547.7486781197995" cy="342.3973111716914" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="401_diarylmethanol_C_highlight" cx="546.5006781197994" cy="341.2273111716914" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="402_diarylmethanol_C" cx="595.8368028290877" cy="310.81737523442945" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="403_diarylmethanol_C_light" cx="594.2768028290877" cy="309.10137523442944" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="404_diarylmethanol_C_highlight" cx="593.0288028290877" cy="307.9313752344294" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="405_diarylmethanol_H" cx="686.475794526741" cy="252.34736672586172" rx="5.4" ry="5.4" fill="#F1F3F6"/>
+<ellipse id="406_diarylmethanol_H_light" cx="685.3957945267409" cy="251.15936672586173" rx="3.3480000000000003" ry="3.3480000000000003" fill="#FFFFFF"/>
+<ellipse id="407_diarylmethanol_H_highlight" cx="684.531794526741" cy="250.34936672586173" rx="1.026" ry="1.026" fill="#E8EFF1"/>
+<ellipse id="408_diarylmethanol_C" cx="748.624397022033" cy="345.7741368082792" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="409_diarylmethanol_C_light" cx="747.0643970220331" cy="344.0581368082792" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="410_diarylmethanol_C_highlight" cx="745.816397022033" cy="342.88813680827917" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="411_diarylmethanol_C" cx="532.8486443923523" cy="376.0" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="412_diarylmethanol_C_light" cx="531.2886443923524" cy="374.284" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="413_diarylmethanol_C_highlight" cx="530.0406443923523" cy="373.114" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="414_diarylmethanol_C" cx="795.6902462443056" cy="375.1787782013496" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="415_diarylmethanol_C_light" cx="794.1302462443057" cy="373.4627782013496" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="416_diarylmethanol_C_highlight" cx="792.8822462443056" cy="372.29277820134956" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="417_diarylmethanol_C" cx="626.3901947460158" cy="309.96034588811125" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="418_diarylmethanol_C_light" cx="624.8301947460159" cy="308.24434588811124" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="419_diarylmethanol_C_highlight" cx="623.5821947460158" cy="307.0743458881112" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="420_diarylmethanol_C" cx="676.9025240000873" cy="274.4196948926173" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="421_diarylmethanol_C_light" cx="675.3425240000873" cy="272.7036948926173" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="422_diarylmethanol_C_highlight" cx="674.0945240000873" cy="271.5336948926173" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<text id="423_stereogenic_center_marker" x="687.9025240000873" y="267.4196948926173" fill="#B98426" font-family="Arial,sans-serif" font-size="24" font-weight="700" text-anchor="start">*</text>
+<ellipse id="424_diarylmethanol_C" cx="728.1493769820534" cy="306.03718376461876" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="425_diarylmethanol_C_light" cx="726.5893769820534" cy="304.32118376461875" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="426_diarylmethanol_C_highlight" cx="725.3413769820534" cy="303.15118376461874" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="427_diarylmethanol_C" cx="562.5830330550472" cy="375.09696503293486" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="428_diarylmethanol_C_light" cx="561.0230330550472" cy="373.38096503293485" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="429_diarylmethanol_C_highlight" cx="559.7750330550472" cy="372.21096503293484" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="430_diarylmethanol_C" cx="608.826947453924" cy="342.324993606318" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="431_diarylmethanol_C_light" cx="607.2669474539241" cy="340.608993606318" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="432_diarylmethanol_C_highlight" cx="606.018947453924" cy="339.438993606318" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="433_diarylmethanol_O" cx="664.958779359747" cy="233.0" rx="8.7" ry="8.7" fill="#D74646"/>
+<ellipse id="434_diarylmethanol_O_light" cx="663.218779359747" cy="231.086" rx="5.393999999999999" ry="5.393999999999999" fill="#E96666"/>
+<ellipse id="435_diarylmethanol_O_highlight" cx="661.8267793597471" cy="229.781" rx="1.6529999999999998" ry="1.6529999999999998" fill="#E8EFF1"/>
+<ellipse id="436_diarylmethanol_C" cx="823.1513556076477" cy="365.20213750832374" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="437_diarylmethanol_C_light" cx="821.5913556076478" cy="363.48613750832374" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="438_diarylmethanol_C_highlight" cx="820.3433556076477" cy="362.3161375083237" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="439_diarylmethanol_C" cx="756.5176628854712" cy="296.4198729584212" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="440_diarylmethanol_C_light" cx="754.9576628854712" cy="294.7038729584212" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="441_diarylmethanol_C_highlight" cx="753.7096628854712" cy="293.53387295842117" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<ellipse id="442_diarylmethanol_C" cx="803.6160618303924" cy="325.82574919402674" rx="7.8" ry="7.8" fill="#596574"/>
+<ellipse id="443_diarylmethanol_C_light" cx="802.0560618303924" cy="324.10974919402673" rx="4.836" ry="4.836" fill="#73818E"/>
+<ellipse id="444_diarylmethanol_C_highlight" cx="800.8080618303924" cy="322.9397491940267" rx="1.482" ry="1.482" fill="#E8EFF1"/>
+<path id="445_illustrative_vibrational_displacement_shaft" d="M 586.914,311.992 L 563.119,315.125" fill="none" stroke="#07867F" stroke-width="2.5"/>
+<path id="446_illustrative_vibrational_displacement_head" d="M 556.179,316.039 L 562.589,311.100 L 563.649,319.150 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<path id="447_illustrative_vibrational_displacement_shaft" d="M 617.553,311.666 L 593.988,316.214" fill="none" stroke="#07867F" stroke-width="2.5"/>
+<path id="448_illustrative_vibrational_displacement_head" d="M 587.115,317.540 L 593.219,312.227 L 594.757,320.200 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<path id="449_illustrative_vibrational_displacement_shaft" d="M 663.239,224.166 L 658.654,200.608" fill="none" stroke="#07867F" stroke-width="2.5"/>
+<path id="450_illustrative_vibrational_displacement_head" d="M 657.316,193.737 L 662.639,199.832 L 654.669,201.384 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<text id="451_text" x="678.0" y="432" fill="#07867F" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle">DFT optimization</text>
+<text id="452_text" x="678.0" y="478" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle">Frequency verification</text>
+<path id="453_line" d="M 542.000,631.000 L 816.000,631.000" fill="none" stroke="#647585" stroke-width="1.3"/>
+<path id="454_line" d="M 542.000,516.000 L 542.000,631.000" fill="none" stroke="#647585" stroke-width="1.3"/>
+<path id="455_minimum_energy_well" d="M 542.000,531.000 L 544.740,534.485 L 547.480,537.899 L 550.220,541.243 L 552.960,544.517 L 555.700,547.720 L 558.440,550.853 L 561.180,553.915 L 563.920,556.907 L 566.660,559.829 L 569.400,562.680 L 572.140,565.461 L 574.880,568.171 L 577.620,570.811 L 580.360,573.381 L 583.100,575.880 L 585.840,578.309 L 588.580,580.667 L 591.320,582.955 L 594.060,585.173 L 596.800,587.320 L 599.540,589.397 L 602.280,591.403 L 605.020,593.339 L 607.760,595.205 L 610.500,597.000 L 613.240,598.725 L 615.980,600.379 L 618.720,601.963 L 621.460,603.477 L 624.200,604.920 L 626.940,606.293 L 629.680,607.595 L 632.420,608.827 L 635.160,609.989 L 637.900,611.080 L 640.640,612.101 L 643.380,613.051 L 646.120,613.931 L 648.860,614.741 L 651.600,615.480 L 654.340,616.149 L 657.080,616.747 L 659.820,617.275 L 662.560,617.733 L 665.300,618.120 L 668.040,618.437 L 670.780,618.683 L 673.520,618.859 L 676.260,618.965 L 679.000,619.000 L 681.740,618.965 L 684.480,618.859 L 687.220,618.683 L 689.960,618.437 L 692.700,618.120 L 695.440,617.733 L 698.180,617.275 L 700.920,616.747 L 703.660,616.149 L 706.400,615.480 L 709.140,614.741 L 711.880,613.931 L 714.620,613.051 L 717.360,612.101 L 720.100,611.080 L 722.840,609.989 L 725.580,608.827 L 728.320,607.595 L 731.060,606.293 L 733.800,604.920 L 736.540,603.477 L 739.280,601.963 L 742.020,600.379 L 744.760,598.725 L 747.500,597.000 L 750.240,595.205 L 752.980,593.339 L 755.720,591.403 L 758.460,589.397 L 761.200,587.320 L 763.940,585.173 L 766.680,582.955 L 769.420,580.667 L 772.160,578.309 L 774.900,575.880 L 777.640,573.381 L 780.380,570.811 L 783.120,568.171 L 785.860,565.461 L 788.600,562.680 L 791.340,559.829 L 794.080,556.907 L 796.820,553.915 L 799.560,550.853 L 802.300,547.720 L 805.040,544.517 L 807.780,541.243 L 810.520,537.899 L 813.260,534.485 L 816.000,531.000" fill="none" stroke="#07867F" stroke-width="3"/>
+<ellipse id="456_atom" cx="679.0" cy="619.0" rx="5.0" ry="5.0" fill="#B98426"/>
+<text id="457_text" x="678.0" y="704" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle">Verify local minima</text>
+<text id="458_text" x="678.0" y="747" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">No imaginary frequencies</text>
+<text id="459_text" x="1100.0" y="245" fill="#B98426" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle">Energy → population</text>
+<path id="460_relative_energy_level" d="M 946.000,488.000 L 1048.000,488.000" fill="none" stroke="#17364E" stroke-width="2.5"/>
+<text id="461_text" x="938" y="481" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end">G1</text>
+<rect id="462_population_weight_1" x="1106" y="473" width="151" height="30" rx="3" fill="#07867F" stroke="none" stroke-width="1.5"/>
+<path id="463_relative_energy_level" d="M 946.000,425.000 L 1048.000,425.000" fill="none" stroke="#17364E" stroke-width="2.5"/>
+<text id="464_text" x="938" y="418" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end">G2</text>
+<rect id="465_population_weight_2" x="1106" y="410" width="96" height="30" rx="3" fill="#80529D" stroke="none" stroke-width="1.5"/>
+<path id="466_relative_energy_level" d="M 946.000,362.000 L 1048.000,362.000" fill="none" stroke="#17364E" stroke-width="2.5"/>
+<text id="467_text" x="938" y="355" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end">G3</text>
+<rect id="468_population_weight_3" x="1106" y="347" width="49" height="30" rx="3" fill="#B98426" stroke="none" stroke-width="1.5"/>
+<path id="469_relative_energy_level" d="M 946.000,299.000 L 1048.000,299.000" fill="none" stroke="#17364E" stroke-width="2.5"/>
+<text id="470_text" x="938" y="292" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end">G4</text>
+<rect id="471_population_weight_4" x="1106" y="284" width="25" height="30" rx="3" fill="#76BCB3" stroke="none" stroke-width="1.5"/>
+<path id="472_arrow_shaft" d="M 1060.000,393.000 L 1087.000,393.000" fill="none" stroke="#B98426" stroke-width="2.2"/>
+<path id="473_arrow_head" d="M 1094.000,393.000 L 1087.000,397.060 L 1087.000,388.940 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<text id="474_boltzmann_relation" x="1100.0" y="566" fill="#17364E" font-family="DejaVu Sans,sans-serif" font-size="29" font-weight="700" text-anchor="middle">pᵢ ∝ exp(−ΔGᵢ/RT)</text>
+<text id="475_text" x="1100.0" y="622" fill="#647585" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle">ΔE / ΔH / ΔG</text>
+<text id="476_text" x="1100.0" y="704" fill="#17364E" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle">Evaluate ensemble weights</text>
+<text id="477_text" x="1100.0" y="747" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">Boltzmann / sampled weights</text>
+<rect id="478_electronic_property_branch" x="1341" y="212" width="362" height="246" rx="13" fill="#E2F2EE" stroke="none" stroke-width="1.5"/>
+<text id="479_text" x="1359" y="256" fill="#07867F" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">ECD</text>
+<text id="480_text" x="1451" y="254" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start">TDDFT</text>
+<path id="481_line" d="M 1368.000,389.000 L 1459.000,389.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="482_line" d="M 1368.000,319.000 L 1459.000,319.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="483_arrow_shaft" d="M 1413.000,385.000 L 1413.000,331.000" fill="none" stroke="#07867F" stroke-width="3"/>
+<path id="484_arrow_head" d="M 1413.000,323.000 L 1417.640,331.000 L 1408.360,331.000 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<text id="485_text" x="1467" y="326" fill="#647585" font-family="DejaVu Sans,sans-serif" font-size="24" font-weight="400" text-anchor="start">Sₙ</text>
+<text id="486_text" x="1467" y="398" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">S₀</text>
+<path id="487_line" d="M 1535.000,357.000 L 1662.000,357.000" fill="none" stroke="#9AAAB6" stroke-width="1.2"/>
+<path id="488_ecd_rotatory_strength_stick" d="M 1550.240,357.000 L 1550.240,325.980" fill="none" stroke="#07867F" stroke-width="3"/>
+<path id="489_ecd_rotatory_strength_stick" d="M 1579.450,357.000 L 1579.450,381.816" fill="none" stroke="#07867F" stroke-width="3"/>
+<path id="490_ecd_rotatory_strength_stick" d="M 1606.120,357.000 L 1606.120,317.708" fill="none" stroke="#07867F" stroke-width="3"/>
+<path id="491_ecd_rotatory_strength_stick" d="M 1639.140,357.000 L 1639.140,375.612" fill="none" stroke="#07867F" stroke-width="3"/>
+<text id="492_text" x="1522.0" y="442" fill="#17364E" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="400" text-anchor="middle">Excitation energies • Rₙ</text>
+<rect id="493_vibrational_property_branch" x="1341" y="477" width="362" height="229" rx="13" fill="#EEE7F4" stroke="none" stroke-width="1.5"/>
+<text id="494_text" x="1359" y="522" fill="#80529D" font-family="Arial,sans-serif" font-size="35" font-weight="700" text-anchor="start">VCD</text>
+<text id="495_text" x="1451" y="520" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start">DFT</text>
+<path id="496_line" d="M 1379.000,602.000 L 1449.000,602.000" fill="none" stroke="#7A8590" stroke-width="4"/>
+<ellipse id="497_atom" cx="1377.0" cy="602.0" rx="12.0" ry="12.0" fill="#596574"/>
+<ellipse id="498_atom_light" cx="1374.6" cy="599.36" rx="7.4399999999999995" ry="7.4399999999999995" fill="#73818E"/>
+<ellipse id="499_atom_highlight" cx="1372.68" cy="597.56" rx="2.2800000000000002" ry="2.2800000000000002" fill="#E8EFF1"/>
+<ellipse id="500_atom" cx="1451.0" cy="602.0" rx="13.0" ry="13.0" fill="#D74646"/>
+<ellipse id="501_atom_light" cx="1448.4" cy="599.14" rx="8.06" ry="8.06" fill="#E96666"/>
+<ellipse id="502_atom_highlight" cx="1446.32" cy="597.19" rx="2.47" ry="2.47" fill="#E8EFF1"/>
+<path id="503_arrow_shaft" d="M 1370.000,577.000 L 1352.000,577.000" fill="none" stroke="#80529D" stroke-width="2.3"/>
+<path id="504_arrow_head" d="M 1345.000,577.000 L 1352.000,572.940 L 1352.000,581.060 Z" fill="#80529D" stroke="#80529D" stroke-width="0"/>
+<path id="505_arrow_shaft" d="M 1456.000,577.000 L 1474.000,577.000" fill="none" stroke="#80529D" stroke-width="2.3"/>
+<path id="506_arrow_head" d="M 1481.000,577.000 L 1474.000,581.060 L 1474.000,572.940 Z" fill="#80529D" stroke="#80529D" stroke-width="0"/>
+<path id="507_line" d="M 1535.000,606.000 L 1662.000,606.000" fill="none" stroke="#9AAAB6" stroke-width="1.2"/>
+<path id="508_vcd_rotatory_strength_stick" d="M 1547.700,606.000 L 1547.700,579.116" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="509_vcd_rotatory_strength_stick" d="M 1560.400,606.000 L 1560.400,639.088" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="510_vcd_rotatory_strength_stick" d="M 1575.640,606.000 L 1575.640,583.252" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="511_vcd_rotatory_strength_stick" d="M 1590.880,606.000 L 1590.880,624.612" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="512_vcd_rotatory_strength_stick" d="M 1601.040,606.000 L 1601.040,568.776" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="513_vcd_rotatory_strength_stick" d="M 1618.820,606.000 L 1618.820,634.952" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="514_vcd_rotatory_strength_stick" d="M 1630.250,606.000 L 1630.250,589.456" fill="none" stroke="#80529D" stroke-width="3"/>
+<path id="515_vcd_rotatory_strength_stick" d="M 1646.760,606.000 L 1646.760,630.816" fill="none" stroke="#80529D" stroke-width="3"/>
+<text id="516_text" x="1522.0" y="687" fill="#17364E" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="400" text-anchor="middle">Normal modes • Rₖ</text>
+<text id="517_text" x="1522.0" y="747" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle">HFF • APT • AAT</text>
+<text id="518_text" x="1944.0" y="245" fill="#17364E" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle">S̄ = Σᵢ pᵢ Sᵢ</text>
+<text id="519_text" x="1773" y="296" fill="#07867F" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="start">ECD</text>
+<path id="520_ECD_schematic_comparison_zero" d="M 1797.000,364.000 L 2085.000,364.000" fill="none" stroke="#9AAAB6" stroke-width="1.3"/>
+<path id="521_ECD_schematic_comparison_axis" d="M 1797.000,314.000 L 1797.000,414.000" fill="none" stroke="#9AAAB6" stroke-width="1.3"/>
+<path id="522_ECD_schematic_comparison_weighted" d="M 1797.000,363.999 L 1798.920,363.997 L 1800.840,363.994 L 1802.760,363.989 L 1804.680,363.980 L 1806.600,363.965 L 1808.520,363.937 L 1810.440,363.892 L 1812.360,363.819 L 1814.280,363.704 L 1816.200,363.526 L 1818.120,363.261 L 1820.040,362.876 L 1821.960,362.331 L 1823.880,361.583 L 1825.800,360.585 L 1827.720,359.293 L 1829.640,357.669 L 1831.560,355.693 L 1833.480,353.367 L 1835.400,350.721 L 1837.320,347.821 L 1839.240,344.768 L 1841.160,341.697 L 1843.080,338.767 L 1845.000,336.147 L 1846.920,334.006 L 1848.840,332.488 L 1850.760,331.700 L 1852.680,331.700 L 1854.600,332.489 L 1856.520,334.008 L 1858.440,336.151 L 1860.360,338.774 L 1862.280,341.711 L 1864.200,344.793 L 1866.120,347.864 L 1868.040,350.795 L 1869.960,353.492 L 1871.880,355.898 L 1873.800,357.995 L 1875.720,359.802 L 1877.640,361.359 L 1879.560,362.733 L 1881.480,363.996 L 1883.400,365.228 L 1885.320,366.504 L 1887.240,367.888 L 1889.160,369.426 L 1891.080,371.144 L 1893.000,373.040 L 1894.920,375.083 L 1896.840,377.213 L 1898.760,379.344 L 1900.680,381.372 L 1902.600,383.182 L 1904.520,384.660 L 1906.440,385.707 L 1908.360,386.251 L 1910.280,386.251 L 1912.200,385.708 L 1914.120,384.662 L 1916.040,383.187 L 1917.960,381.383 L 1919.880,379.364 L 1921.800,377.248 L 1923.720,375.146 L 1925.640,373.148 L 1927.560,371.325 L 1929.480,369.722 L 1931.400,368.361 L 1933.320,367.242 L 1935.240,366.350 L 1937.160,365.660 L 1939.080,365.141 L 1941.000,364.758 L 1942.920,364.480 L 1944.840,364.276 L 1946.760,364.119 L 1948.680,363.983 L 1950.600,363.845 L 1952.520,363.680 L 1954.440,363.466 L 1956.360,363.174 L 1958.280,362.776 L 1960.200,362.243 L 1962.120,361.544 L 1964.040,360.655 L 1965.960,359.555 L 1967.880,358.239 L 1969.800,356.716 L 1971.720,355.015 L 1973.640,353.187 L 1975.560,351.305 L 1977.480,349.458 L 1979.400,347.749 L 1981.320,346.283 L 1983.240,345.155 L 1985.160,344.445 L 1987.080,344.204 L 1989.000,344.449 L 1990.920,345.166 L 1992.840,346.303 L 1994.760,347.785 L 1996.680,349.518 L 1998.600,351.403 L 2000.520,353.345 L 2002.440,355.261 L 2004.360,357.091 L 2006.280,358.795 L 2008.200,360.360 L 2010.120,361.792 L 2012.040,363.111 L 2013.960,364.349 L 2015.880,365.538 L 2017.800,366.705 L 2019.720,367.868 L 2021.640,369.030 L 2023.560,370.181 L 2025.480,371.292 L 2027.400,372.326 L 2029.320,373.234 L 2031.240,373.969 L 2033.160,374.488 L 2035.080,374.758 L 2037.000,374.762 L 2038.920,374.502 L 2040.840,373.997 L 2042.760,373.284 L 2044.680,372.411 L 2046.600,371.434 L 2048.520,370.410 L 2050.440,369.393 L 2052.360,368.426 L 2054.280,367.544 L 2056.200,366.769 L 2058.120,366.110 L 2060.040,365.569 L 2061.960,365.138 L 2063.880,364.806 L 2065.800,364.556 L 2067.720,364.375 L 2069.640,364.246 L 2071.560,364.158 L 2073.480,364.099 L 2075.400,364.060 L 2077.320,364.036 L 2079.240,364.021 L 2081.160,364.012 L 2083.080,364.007 L 2085.000,364.004" fill="none" stroke="#07867F" stroke-width="3.1"/>
+<path id="523_ECD_schematic_comparison_experimental_schematic" d="M 1797.000,363.988 L 1798.920,363.978 L 1800.840,363.961 L 1802.760,363.932 L 1804.680,363.884 L 1806.600,363.807 L 1808.520,363.687 L 1810.440,363.503 L 1812.360,363.230 L 1814.280,362.837 L 1816.200,362.286 L 1818.120,361.536 L 1820.040,360.544 L 1821.960,359.271 L 1823.880,357.688 L 1825.800,355.779 L 1827.720,353.554 L 1829.640,351.051 L 1831.560,348.339 L 1833.480,345.522 L 1835.400,342.730 L 1837.320,340.112 L 1839.240,337.827 L 1841.160,336.023 L 1843.080,334.823 L 1845.000,334.315 L 1846.920,334.534 L 1848.840,335.466 L 1850.760,337.042 L 1852.680,339.154 L 1854.600,341.661 L 1856.520,344.409 L 1858.440,347.245 L 1860.360,350.033 L 1862.280,352.663 L 1864.200,355.058 L 1866.120,357.179 L 1868.040,359.019 L 1869.960,360.601 L 1871.880,361.972 L 1873.800,363.193 L 1875.720,364.335 L 1877.640,365.470 L 1879.560,366.663 L 1881.480,367.970 L 1883.400,369.429 L 1885.320,371.054 L 1887.240,372.836 L 1889.160,374.740 L 1891.080,376.702 L 1893.000,378.638 L 1894.920,380.448 L 1896.840,382.026 L 1898.760,383.271 L 1900.680,384.098 L 1902.600,384.449 L 1904.520,384.299 L 1906.440,383.658 L 1908.360,382.572 L 1910.280,381.119 L 1912.200,379.395 L 1914.120,377.506 L 1916.040,375.561 L 1917.960,373.654 L 1919.880,371.865 L 1921.800,370.251 L 1923.720,368.847 L 1925.640,367.667 L 1927.560,366.705 L 1929.480,365.946 L 1931.400,365.364 L 1933.320,364.929 L 1935.240,364.610 L 1937.160,364.378 L 1939.080,364.206 L 1941.000,364.070 L 1942.920,363.947 L 1944.840,363.816 L 1946.760,363.654 L 1948.680,363.439 L 1950.600,363.145 L 1952.520,362.746 L 1954.440,362.214 L 1956.360,361.524 L 1958.280,360.652 L 1960.200,359.584 L 1962.120,358.320 L 1964.040,356.871 L 1965.960,355.271 L 1967.880,353.572 L 1969.800,351.847 L 1971.720,350.182 L 1973.640,348.673 L 1975.560,347.413 L 1977.480,346.487 L 1979.400,345.962 L 1981.320,345.874 L 1983.240,346.232 L 1985.160,347.010 L 1987.080,348.156 L 1989.000,349.593 L 1990.920,351.233 L 1992.840,352.985 L 1994.760,354.765 L 1996.680,356.503 L 1998.600,358.148 L 2000.520,359.673 L 2002.440,361.069 L 2004.360,362.348 L 2006.280,363.532 L 2008.200,364.650 L 2010.120,365.732 L 2012.040,366.799 L 2013.960,367.865 L 2015.880,368.930 L 2017.800,369.977 L 2019.720,370.978 L 2021.640,371.896 L 2023.560,372.685 L 2025.480,373.303 L 2027.400,373.713 L 2029.320,373.888 L 2031.240,373.819 L 2033.160,373.510 L 2035.080,372.986 L 2037.000,372.283 L 2038.920,371.449 L 2040.840,370.535 L 2042.760,369.594 L 2044.680,368.671 L 2046.600,367.806 L 2048.520,367.025 L 2050.440,366.346 L 2052.360,365.775 L 2054.280,365.310 L 2056.200,364.943 L 2058.120,364.663 L 2060.040,364.454 L 2061.960,364.304 L 2063.880,364.198 L 2065.800,364.126 L 2067.720,364.078 L 2069.640,364.047 L 2071.560,364.028 L 2073.480,364.016 L 2075.400,364.009 L 2077.320,364.005 L 2079.240,364.003 L 2081.160,364.001 L 2083.080,364.001 L 2085.000,364.000" fill="none" stroke="#647585" stroke-width="2" stroke-dasharray="7 5"/>
+<text id="524_text" x="2081" y="450" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end">λ (nm)</text>
+<text id="525_text" x="1773" y="493" fill="#80529D" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="start">VCD</text>
+<path id="526_VCD_schematic_comparison_zero" d="M 1797.000,560.000 L 2085.000,560.000" fill="none" stroke="#9AAAB6" stroke-width="1.3"/>
+<path id="527_VCD_schematic_comparison_axis" d="M 1797.000,510.000 L 1797.000,610.000" fill="none" stroke="#9AAAB6" stroke-width="1.3"/>
+<path id="528_VCD_schematic_comparison_weighted" d="M 1797.000,559.613 L 1798.920,559.563 L 1800.840,559.504 L 1802.760,559.432 L 1804.680,559.343 L 1806.600,559.234 L 1808.520,559.098 L 1810.440,558.923 L 1812.360,558.697 L 1814.280,558.397 L 1816.200,557.988 L 1818.120,557.418 L 1820.040,556.593 L 1821.960,555.359 L 1823.880,553.445 L 1825.800,550.412 L 1827.720,545.762 L 1829.640,539.996 L 1831.560,536.908 L 1833.480,540.063 L 1835.400,545.898 L 1837.320,550.621 L 1839.240,553.734 L 1841.160,555.737 L 1843.080,557.074 L 1845.000,558.019 L 1846.920,558.736 L 1848.840,559.323 L 1850.760,559.848 L 1852.680,560.364 L 1854.600,560.922 L 1856.520,561.579 L 1858.440,562.417 L 1860.360,563.560 L 1862.280,565.216 L 1864.200,567.740 L 1866.120,571.706 L 1868.040,577.765 L 1869.960,585.260 L 1871.880,589.223 L 1873.800,584.982 L 1875.720,577.185 L 1877.640,570.770 L 1879.560,566.354 L 1881.480,563.226 L 1883.400,560.714 L 1885.320,558.298 L 1887.240,555.482 L 1889.160,551.674 L 1891.080,546.266 L 1893.000,539.753 L 1894.920,536.193 L 1896.840,539.406 L 1898.760,545.544 L 1900.680,550.514 L 1902.600,553.776 L 1904.520,555.865 L 1906.440,557.260 L 1908.360,558.260 L 1910.280,559.049 L 1912.200,559.751 L 1914.120,560.469 L 1916.040,561.314 L 1917.960,562.442 L 1919.880,564.093 L 1921.800,566.606 L 1923.720,570.144 L 1925.640,573.456 L 1927.560,573.411 L 1929.480,570.007 L 1931.400,566.370 L 1933.320,563.743 L 1935.240,561.956 L 1937.160,560.656 L 1939.080,559.585 L 1941.000,558.556 L 1942.920,557.408 L 1944.840,555.948 L 1946.760,553.895 L 1948.680,550.803 L 1950.600,546.028 L 1952.520,539.263 L 1954.440,532.891 L 1956.360,532.872 L 1958.280,539.204 L 1960.200,545.923 L 1962.120,550.643 L 1964.040,553.665 L 1965.960,555.621 L 1967.880,556.947 L 1969.800,557.901 L 1971.720,558.637 L 1973.640,559.254 L 1975.560,559.822 L 1977.480,560.404 L 1979.400,561.067 L 1981.320,561.902 L 1983.240,563.050 L 1985.160,564.746 L 1987.080,567.366 L 1989.000,571.331 L 1990.920,576.220 L 1992.840,578.819 L 1994.760,576.106 L 1996.680,571.090 L 1998.600,566.966 L 2000.520,564.135 L 2002.440,562.137 L 2004.360,560.539 L 2006.280,559.004 L 2008.200,557.214 L 2010.120,554.789 L 2012.040,551.336 L 2013.960,547.176 L 2015.880,544.916 L 2017.800,547.014 L 2019.720,550.996 L 2021.640,554.231 L 2023.560,556.374 L 2025.480,557.770 L 2027.400,558.729 L 2029.320,559.444 L 2031.240,560.037 L 2033.160,560.590 L 2035.080,561.171 L 2037.000,561.855 L 2038.920,562.740 L 2040.840,563.980 L 2042.760,565.832 L 2044.680,568.705 L 2046.600,573.063 L 2048.520,578.447 L 2050.440,581.357 L 2052.360,578.504 L 2054.280,573.178 L 2056.200,568.883 L 2058.120,566.081 L 2060.040,564.312 L 2061.960,563.170 L 2063.880,562.406 L 2065.800,561.877 L 2067.720,561.499 L 2069.640,561.220 L 2071.560,561.009 L 2073.480,560.847 L 2075.400,560.719 L 2077.320,560.617 L 2079.240,560.535 L 2081.160,560.467 L 2083.080,560.411 L 2085.000,560.364" fill="none" stroke="#80529D" stroke-width="3.1"/>
+<path id="529_VCD_schematic_comparison_experimental_schematic" d="M 1797.000,559.456 L 1798.920,559.370 L 1800.840,559.264 L 1802.760,559.129 L 1804.680,558.957 L 1806.600,558.731 L 1808.520,558.430 L 1810.440,558.018 L 1812.360,557.435 L 1814.280,556.586 L 1816.200,555.300 L 1818.120,553.287 L 1820.040,550.101 L 1821.960,545.386 L 1823.880,540.315 L 1825.800,539.134 L 1827.720,543.301 L 1829.640,548.539 L 1831.560,552.396 L 1833.480,554.892 L 1835.400,556.510 L 1837.320,557.607 L 1839.240,558.398 L 1841.160,559.012 L 1843.080,559.527 L 1845.000,560.001 L 1846.920,560.481 L 1848.840,561.013 L 1850.760,561.656 L 1852.680,562.493 L 1854.600,563.658 L 1856.520,565.372 L 1858.440,568.017 L 1860.360,572.178 L 1862.280,578.318 L 1864.200,584.900 L 1866.120,586.365 L 1868.040,580.799 L 1869.960,573.779 L 1871.880,568.491 L 1873.800,564.871 L 1875.720,562.231 L 1877.640,560.001 L 1879.560,557.726 L 1881.480,554.934 L 1883.400,551.051 L 1885.320,545.636 L 1887.240,539.918 L 1889.160,538.447 L 1891.080,542.777 L 1893.000,548.293 L 1894.920,552.347 L 1896.840,554.958 L 1898.760,556.645 L 1900.680,557.792 L 1902.600,558.637 L 1904.520,559.326 L 1906.440,559.964 L 1908.360,560.645 L 1910.280,561.480 L 1912.200,562.629 L 1914.120,564.345 L 1916.040,566.941 L 1917.960,570.347 L 1919.880,572.753 L 1921.800,571.547 L 1923.720,568.100 L 1925.640,565.016 L 1927.560,562.875 L 1929.480,561.401 L 1931.400,560.294 L 1933.320,559.339 L 1935.240,558.379 L 1937.160,557.262 L 1939.080,555.793 L 1941.000,553.678 L 1942.920,550.447 L 1944.840,545.502 L 1946.760,538.980 L 1948.680,534.328 L 1950.600,536.518 L 1952.520,542.931 L 1954.440,548.593 L 1956.360,552.388 L 1958.280,554.811 L 1960.200,556.398 L 1962.120,557.492 L 1964.040,558.295 L 1965.960,558.929 L 1967.880,559.474 L 1969.800,559.993 L 1971.720,560.542 L 1973.640,561.186 L 1975.560,562.021 L 1977.480,563.197 L 1979.400,564.963 L 1981.320,567.702 L 1983.240,571.714 L 1985.160,576.007 L 1987.080,576.986 L 1989.000,573.412 L 1990.920,568.896 L 1992.840,565.499 L 1994.760,563.181 L 1996.680,561.496 L 1998.600,560.079 L 2000.520,558.634 L 2002.440,556.859 L 2004.360,554.383 L 2006.280,550.925 L 2008.200,547.274 L 2010.120,546.355 L 2012.040,549.169 L 2013.960,552.749 L 2015.880,555.394 L 2017.800,557.117 L 2019.720,558.252 L 2021.640,559.049 L 2023.560,559.662 L 2025.480,560.187 L 2027.400,560.695 L 2029.320,561.248 L 2031.240,561.919 L 2033.160,562.810 L 2035.080,564.085 L 2037.000,566.017 L 2038.920,569.022 L 2040.840,573.434 L 2042.760,578.171 L 2044.680,579.314 L 2046.600,575.523 L 2048.520,570.744 L 2050.440,567.245 L 2052.360,565.008 L 2054.280,563.591 L 2056.200,562.667 L 2058.120,562.042 L 2060.040,561.605 L 2061.960,561.289 L 2063.880,561.055 L 2065.800,560.876 L 2067.720,560.738 L 2069.640,560.629 L 2071.560,560.541 L 2073.480,560.470 L 2075.400,560.412 L 2077.320,560.363 L 2079.240,560.322 L 2081.160,560.287 L 2083.080,560.258 L 2085.000,560.232" fill="none" stroke="#647585" stroke-width="2" stroke-dasharray="7 5"/>
+<text id="530_text" x="1944.0" y="652" fill="#647585" font-family="DejaVu Sans,sans-serif" font-size="24" font-weight="400" text-anchor="middle">Wavenumber (cm⁻¹)</text>
+<path id="531_line" d="M 1783.000,690.000 L 1825.000,690.000" fill="none" stroke="#07867F" stroke-width="3"/>
+<text id="532_text" x="1836" y="698" fill="#17364E" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Calc.</text>
+<path id="533_line" d="M 1952.000,690.000 L 1994.000,690.000" fill="none" stroke="#647585" stroke-width="2" stroke-dasharray="7 5"/>
+<text id="534_text" x="2005" y="698" fill="#17364E" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">Exp.</text>
+<rect id="535_stereochemical_interpretation" x="1765" y="722" width="358" height="92" rx="11" fill="#FFF0CF" stroke="none" stroke-width="1.5"/>
+<text id="536_text" x="1944.0" y="758" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">Absolute configuration</text>
+<text id="537_text" x="1944.0" y="793" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle">&amp; conformation</text>
+<rect id="538_ensemble_reliability_message" x="60" y="843" width="2080" height="55" rx="15" fill="#E1F0EF" stroke="none" stroke-width="1.5"/>
+<text id="539_text" x="1100" y="881" fill="#17364E" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle">Sampling + reliable populations govern the averaged spectrum</text>
+<rect id="540_supporting_method" x="60" y="930" width="650" height="133" rx="14" fill="white" stroke="#C9D5DE" stroke-width="1.5"/>
+<rect id="541_supporting_method" x="745" y="930" width="710" height="133" rx="14" fill="white" stroke="#C9D5DE" stroke-width="1.5"/>
+<rect id="542_supporting_method" x="1490" y="930" width="650" height="133" rx="14" fill="white" stroke="#C9D5DE" stroke-width="1.5"/>
+<ellipse id="543_atom" cx="111.0" cy="996.0" rx="12.0" ry="12.0" fill="#596574"/>
+<ellipse id="544_atom_light" cx="108.6" cy="993.36" rx="7.4399999999999995" ry="7.4399999999999995" fill="#73818E"/>
+<ellipse id="545_atom_highlight" cx="106.68" cy="991.56" rx="2.2800000000000002" ry="2.2800000000000002" fill="#E8EFF1"/>
+<path id="546_line" d="M 157.000,966.000 L 168.706,960.345" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<path id="547_line" d="M 157.000,966.000 L 165.580,975.767" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<ellipse id="548_atom" cx="157.0" cy="966.0" rx="6.0" ry="6.0" fill="#D74646"/>
+<ellipse id="549_atom_light" cx="155.8" cy="964.68" rx="3.7199999999999998" ry="3.7199999999999998" fill="#E96666"/>
+<ellipse id="550_atom_highlight" cx="154.84" cy="963.78" rx="1.1400000000000001" ry="1.1400000000000001" fill="#E8EFF1"/>
+<ellipse id="551_atom" cx="168.7058123305848" cy="960.345448056554" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="552_atom_light" cx="168.0058123305848" cy="959.575448056554" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="553_atom_highlight" cx="167.4458123305848" cy="959.050448056554" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<ellipse id="554_atom" cx="165.57978089650476" cy="975.7666452668238" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="555_atom_light" cx="164.87978089650477" cy="974.9966452668239" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="556_atom_highlight" cx="164.31978089650477" cy="974.4716452668239" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<path id="557_line" d="M 164.000,1016.000 L 172.580,1025.767" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<path id="558_line" d="M 164.000,1016.000 L 156.884,1026.880" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<ellipse id="559_atom" cx="164.0" cy="1016.0" rx="6.0" ry="6.0" fill="#D74646"/>
+<ellipse id="560_atom_light" cx="162.8" cy="1014.68" rx="3.7199999999999998" ry="3.7199999999999998" fill="#E96666"/>
+<ellipse id="561_atom_highlight" cx="161.84" cy="1013.78" rx="1.1400000000000001" ry="1.1400000000000001" fill="#E8EFF1"/>
+<ellipse id="562_atom" cx="172.57978089650476" cy="1025.7666452668238" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="563_atom_light" cx="171.87978089650477" cy="1024.9966452668239" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="564_atom_highlight" cx="171.31978089650477" cy="1024.4716452668238" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<ellipse id="565_atom" cx="156.88435034875647" cy="1026.8796842803804" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="566_atom_light" cx="156.18435034875648" cy="1026.1096842803804" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="567_atom_highlight" cx="155.62435034875648" cy="1025.5846842803803" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<path id="568_line" d="M 92.000,1035.000 L 89.683,1022.208" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<path id="569_line" d="M 92.000,1035.000 L 103.706,1029.345" fill="none" stroke="#9CAAB2" stroke-width="2"/>
+<ellipse id="570_atom" cx="92.0" cy="1035.0" rx="6.0" ry="6.0" fill="#D74646"/>
+<ellipse id="571_atom_light" cx="90.8" cy="1033.68" rx="3.7199999999999998" ry="3.7199999999999998" fill="#E96666"/>
+<ellipse id="572_atom_highlight" cx="89.84" cy="1032.78" rx="1.1400000000000001" ry="1.1400000000000001" fill="#E8EFF1"/>
+<ellipse id="573_atom" cx="89.6828012765566" cy="1022.2081826906389" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="574_atom_light" cx="88.9828012765566" cy="1021.4381826906389" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="575_atom_highlight" cx="88.4228012765566" cy="1020.9131826906389" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<ellipse id="576_atom" cx="103.7058123305848" cy="1029.345448056554" rx="3.5" ry="3.5" fill="#F1F3F6"/>
+<ellipse id="577_atom_light" cx="103.0058123305848" cy="1028.575448056554" rx="2.17" ry="2.17" fill="#FFFFFF"/>
+<ellipse id="578_atom_highlight" cx="102.4458123305848" cy="1028.050448056554" rx="0.665" ry="0.665" fill="#E8EFF1"/>
+<text id="579_text" x="240" y="976" fill="#07867F" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start">Solvent environment</text>
+<text id="580_text" x="240" y="1011" fill="#17364E" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">PCM / SMD • explicit solvent</text>
+<text id="581_text" x="240" y="1045" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">QM/MM</text>
+<path id="582_sampling_trajectory" d="M 776.000,1011.000 L 778.100,1015.080 L 780.200,1016.478 L 782.300,1016.400 L 784.400,1016.371 L 786.500,1017.377 L 788.600,1019.311 L 790.700,1020.983 L 792.800,1020.712 L 794.900,1017.198 L 797.000,1010.272 L 799.100,1001.147 L 801.200,992.044 L 803.300,985.344 L 805.400,982.651 L 807.500,984.182 L 809.600,988.767 L 811.700,994.443 L 813.800,999.357 L 815.900,1002.560 L 818.000,1004.325 L 820.100,1005.846 L 822.200,1008.488 L 824.300,1012.940 L 826.400,1018.715 L 828.500,1024.219 L 830.600,1027.397 L 832.700,1026.649 L 834.800,1021.589 L 836.900,1013.302 L 839.000,1003.954 L 841.100,995.938 L 843.200,990.940 L 845.300,989.348 L 847.400,990.251 L 849.500,992.029 L 851.600,993.229 L 853.700,993.307 L 855.800,992.880 L 857.900,993.376 L 860.000,996.243 L 862.100,1002.112 L 864.200,1010.305 L 866.300,1018.961 L 868.400,1025.718 L 870.500,1028.664 L 872.600,1027.113 L 874.700,1021.860 L 876.800,1014.805 L 878.900,1008.110 L 881.000,1003.294 L 883.100,1000.674 L 885.200,999.402 L 887.300,998.059 L 889.400,995.519" fill="none" stroke="#07867F" stroke-width="2.7"/>
+<text id="583_text" x="925" y="976" fill="#07867F" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start">Dynamics &amp; ensembles</text>
+<text id="584_text" x="925" y="1011" fill="#17364E" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">MD • enhanced sampling</text>
+<text id="585_text" x="925" y="1045" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Convergence &amp; uncertainty</text>
+<path id="586_line" d="M 1521.000,970.000 L 1561.000,956.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="587_line" d="M 1521.000,970.000 L 1561.000,997.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="588_line" d="M 1521.000,970.000 L 1561.000,1038.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="589_line" d="M 1521.000,1025.000 L 1561.000,956.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="590_line" d="M 1521.000,1025.000 L 1561.000,997.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="591_line" d="M 1521.000,1025.000 L 1561.000,1038.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="592_line" d="M 1561.000,956.000 L 1601.000,978.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="593_line" d="M 1561.000,956.000 L 1601.000,1020.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="594_line" d="M 1561.000,997.000 L 1601.000,978.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="595_line" d="M 1561.000,997.000 L 1601.000,1020.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="596_line" d="M 1561.000,1038.000 L 1601.000,978.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<path id="597_line" d="M 1561.000,1038.000 L 1601.000,1020.000" fill="none" stroke="#BAC6D1" stroke-width="1.4"/>
+<ellipse id="598_atom" cx="1521.0" cy="970.0" rx="5.0" ry="5.0" fill="#80529D"/>
+<ellipse id="599_atom" cx="1521.0" cy="1025.0" rx="5.0" ry="5.0" fill="#80529D"/>
+<ellipse id="600_atom" cx="1561.0" cy="956.0" rx="5.0" ry="5.0" fill="#80529D"/>
+<ellipse id="601_atom" cx="1561.0" cy="997.0" rx="5.0" ry="5.0" fill="#80529D"/>
+<ellipse id="602_atom" cx="1561.0" cy="1038.0" rx="5.0" ry="5.0" fill="#80529D"/>
+<ellipse id="603_atom" cx="1601.0" cy="978.0" rx="5.0" ry="5.0" fill="#07867F"/>
+<ellipse id="604_atom" cx="1601.0" cy="1020.0" rx="5.0" ry="5.0" fill="#07867F"/>
+<text id="605_text" x="1640" y="976" fill="#80529D" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start">Emerging approaches</text>
+<text id="606_text" x="1640" y="1011" fill="#17364E" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">AI / ML • exciton ECD</text>
+<text id="607_text" x="1640" y="1045" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="start">Population refinement</text>
+<text id="608_schematic_disclaimer" x="1100" y="1101" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">Representative structures and schematic plots illustrate a general workflow, not a single-molecule dataset.</text>
+</svg>
