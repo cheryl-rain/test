@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="4400" height="2240" viewBox="0 0 2200 1120">
+  <ns1:desc xmlns:ns1="http://www.w3.org/2240/svg">Original molecule-independent conceptual vector diagram. All landscapes and spectra are schematic; no molecular structures or embedded raster images.</ns1:desc>
+  <ns0:title xmlns:ns0="http://www.w3.org/2240/svg">Editable ensemble-centered ECD/VCD graphical abstract</ns0:title>
+  <g id="vector_artwork" inkscape:groupmode="layer" inkscape:label="Vector artwork"><ns2:rect xmlns:ns2="http://www.w3.org/2240/svg" width="2200" height="1120" fill="white"/>
+<ns5:rect xmlns:ns5="http://www.w3.org/2240/svg" id="002_method_category" x="60" y="186" width="660" height="187" rx="19" fill="#EFF6F4" stroke="none" stroke-width="1.5"/>
+<ns6:rect xmlns:ns6="http://www.w3.org/2240/svg" id="003_category_accent" x="60" y="186" width="9" height="187" rx="0" fill="#07867F" stroke="none" stroke-width="1.5"/>
+<ns9:rect xmlns:ns9="http://www.w3.org/2240/svg" id="006_method_category" x="770" y="186" width="660" height="187" rx="19" fill="#EFF6F4" stroke="none" stroke-width="1.5"/>
+<ns10:rect xmlns:ns10="http://www.w3.org/2240/svg" id="007_category_accent" x="770" y="186" width="9" height="187" rx="0" fill="#07867F" stroke="none" stroke-width="1.5"/>
+<ns13:rect xmlns:ns13="http://www.w3.org/2240/svg" id="010_method_category" x="1480" y="186" width="660" height="187" rx="19" fill="#F4F0F8" stroke="none" stroke-width="1.5"/>
+<ns14:rect xmlns:ns14="http://www.w3.org/2240/svg" id="011_category_accent" x="1480" y="186" width="9" height="187" rx="0" fill="#80529D" stroke="none" stroke-width="1.5"/>
+<ns17:rect xmlns:ns17="http://www.w3.org/2240/svg" id="014_method_category" x="60" y="423" width="660" height="187" rx="19" fill="#F4F0F8" stroke="none" stroke-width="1.5"/>
+<ns18:rect xmlns:ns18="http://www.w3.org/2240/svg" id="015_category_accent" x="60" y="423" width="9" height="187" rx="0" fill="#80529D" stroke="none" stroke-width="1.5"/>
+<ns21:rect xmlns:ns21="http://www.w3.org/2240/svg" id="018_method_category" x="770" y="423" width="660" height="187" rx="19" fill="#FBF5E9" stroke="none" stroke-width="1.5"/>
+<ns22:rect xmlns:ns22="http://www.w3.org/2240/svg" id="019_category_accent" x="770" y="423" width="9" height="187" rx="0" fill="#B98426" stroke="none" stroke-width="1.5"/>
+<ns25:rect xmlns:ns25="http://www.w3.org/2240/svg" id="022_method_category" x="1480" y="423" width="660" height="187" rx="19" fill="#FBF5E9" stroke="none" stroke-width="1.5"/>
+<ns26:rect xmlns:ns26="http://www.w3.org/2240/svg" id="023_category_accent" x="1480" y="423" width="9" height="187" rx="0" fill="#B98426" stroke="none" stroke-width="1.5"/>
+<ns30:rect xmlns:ns30="http://www.w3.org/2240/svg" id="027_energy_methods_panel" x="60" y="699" width="2080" height="80" rx="16" fill="#17364E" stroke="none" stroke-width="1.5"/>
+<ns33:rect xmlns:ns33="http://www.w3.org/2240/svg" id="030_selection_stage" x="60" y="869" width="365" height="130" rx="15" fill="#E6F0ED" stroke="none" stroke-width="1.5"/>
+<ns36:path xmlns:ns36="http://www.w3.org/2240/svg" id="033_stage_arrow_shaft" d="M 432.000,934.000 L 452.000,934.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<ns37:path xmlns:ns37="http://www.w3.org/2240/svg" id="034_stage_arrow_head" d="M 463.000,934.000 L 452.000,940.380 L 452.000,927.620 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<ns38:rect xmlns:ns38="http://www.w3.org/2240/svg" id="035_selection_stage" x="470" y="869" width="365" height="130" rx="15" fill="#E6F0ED" stroke="none" stroke-width="1.5"/>
+<ns41:path xmlns:ns41="http://www.w3.org/2240/svg" id="038_stage_arrow_shaft" d="M 842.000,934.000 L 862.000,934.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<ns42:path xmlns:ns42="http://www.w3.org/2240/svg" id="039_stage_arrow_head" d="M 873.000,934.000 L 862.000,940.380 L 862.000,927.620 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<ns43:rect xmlns:ns43="http://www.w3.org/2240/svg" id="040_selection_stage" x="880" y="869" width="430" height="130" rx="15" fill="#E6F0ED" stroke="none" stroke-width="1.5"/>
+<ns46:path xmlns:ns46="http://www.w3.org/2240/svg" id="043_stage_arrow_shaft" d="M 1317.000,934.000 L 1337.000,934.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<ns47:path xmlns:ns47="http://www.w3.org/2240/svg" id="044_stage_arrow_head" d="M 1348.000,934.000 L 1337.000,940.380 L 1337.000,927.620 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<ns48:rect xmlns:ns48="http://www.w3.org/2240/svg" id="045_selection_stage" x="1355" y="869" width="365" height="130" rx="15" fill="#E6F0ED" stroke="none" stroke-width="1.5"/>
+<ns51:path xmlns:ns51="http://www.w3.org/2240/svg" id="048_stage_arrow_shaft" d="M 1727.000,934.000 L 1747.000,934.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<ns52:path xmlns:ns52="http://www.w3.org/2240/svg" id="049_stage_arrow_head" d="M 1758.000,934.000 L 1747.000,940.380 L 1747.000,927.620 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<ns53:rect xmlns:ns53="http://www.w3.org/2240/svg" id="050_selection_stage" x="1765" y="869" width="375" height="130" rx="15" fill="#FFF0D0" stroke="none" stroke-width="1.5"/>
+</g>
+  <g id="editable_text" inkscape:groupmode="layer" inkscape:label="Editable text"><ns3:text xmlns:ns3="http://www.w3.org/2240/svg" id="text_3" x="1100" y="75" fill="#17364E" font-family="Arial,sans-serif" font-size="53" font-weight="700" text-anchor="middle" xml:space="preserve">Conformational search and sampling</ns3:text>
+<ns4:text xmlns:ns4="http://www.w3.org/2240/svg" id="text_4" x="1100" y="129" fill="#647585" font-family="Arial,sans-serif" font-size="30" font-weight="400" text-anchor="middle" xml:space="preserve">Search strategies and energy evaluation shown separately</ns4:text>
+<ns7:text xmlns:ns7="http://www.w3.org/2240/svg" id="text_7" x="397" y="246" fill="#07867F" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Systematic sampling</ns7:text>
+<ns8:text xmlns:ns8="http://www.w3.org/2240/svg" id="text_8" x="397" y="313" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">Torsion scans</ns8:text>
+<ns11:text xmlns:ns11="http://www.w3.org/2240/svg" id="text_11" x="1107" y="246" fill="#07867F" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Stochastic sampling</ns11:text>
+<ns12:text xmlns:ns12="http://www.w3.org/2240/svg" id="text_12" x="1107" y="313" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">Monte Carlo (MC)</ns12:text>
+<ns15:text xmlns:ns15="http://www.w3.org/2240/svg" id="text_15" x="1817" y="246" fill="#80529D" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Global / heuristic search</ns15:text>
+<ns16:text xmlns:ns16="http://www.w3.org/2240/svg" id="text_16" x="1817" y="313" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">Genetic algorithm (GA)</ns16:text>
+<ns19:text xmlns:ns19="http://www.w3.org/2240/svg" id="text_19" x="397" y="483" fill="#80529D" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Dynamics-based sampling</ns19:text>
+<ns20:text xmlns:ns20="http://www.w3.org/2240/svg" id="text_20" x="397" y="550" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">Molecular dynamics (MD)</ns20:text>
+<ns23:text xmlns:ns23="http://www.w3.org/2240/svg" id="text_23" x="1107" y="483" fill="#B98426" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Enhanced sampling</ns23:text>
+<ns24:text xmlns:ns24="http://www.w3.org/2240/svg" id="text_24" x="1107" y="550" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">REMD • MTD</ns24:text>
+<ns27:text xmlns:ns27="http://www.w3.org/2240/svg" id="text_27" x="1817" y="483" fill="#B98426" font-family="Arial,sans-serif" font-size="37" font-weight="700" text-anchor="middle" xml:space="preserve">Automated hybrid sampling</ns27:text>
+<ns28:text xmlns:ns28="http://www.w3.org/2240/svg" id="text_28" x="1817" y="550" fill="#17364E" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" xml:space="preserve">CREST / iMTD-GC</ns28:text>
+<ns29:text xmlns:ns29="http://www.w3.org/2240/svg" id="text_29" x="1100" y="671" fill="#647585" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle" xml:space="preserve">Low-cost energy evaluation</ns29:text>
+<ns31:text xmlns:ns31="http://www.w3.org/2240/svg" id="text_31" x="1100" y="751" fill="white" font-family="Arial,sans-serif" font-size="43" font-weight="700" text-anchor="middle" xml:space="preserve">MMFF / MMFF94  •  AM1 / PM3  •  GFNn-xTB</ns31:text>
+<ns32:text xmlns:ns32="http://www.w3.org/2240/svg" id="text_32" x="1100" y="840" fill="#647585" font-family="Arial,sans-serif" font-size="31" font-weight="700" text-anchor="middle" xml:space="preserve">Representative low-energy candidate route</ns32:text>
+<ns34:text xmlns:ns34="http://www.w3.org/2240/svg" id="text_34" x="242.5" y="916" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Generate</ns34:text>
+<ns35:text xmlns:ns35="http://www.w3.org/2240/svg" id="text_35" x="242.5" y="961" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">candidates</ns35:text>
+<ns39:text xmlns:ns39="http://www.w3.org/2240/svg" id="text_39" x="652.5" y="916" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Local</ns39:text>
+<ns40:text xmlns:ns40="http://www.w3.org/2240/svg" id="text_40" x="652.5" y="961" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">optimization</ns40:text>
+<ns44:text xmlns:ns44="http://www.w3.org/2240/svg" id="text_44" x="1095.0" y="916" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Energy screening</ns44:text>
+<ns45:text xmlns:ns45="http://www.w3.org/2240/svg" id="text_45" x="1095.0" y="961" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">+ duplicate removal</ns45:text>
+<ns49:text xmlns:ns49="http://www.w3.org/2240/svg" id="text_49" x="1537.5" y="916" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Low-energy</ns49:text>
+<ns50:text xmlns:ns50="http://www.w3.org/2240/svg" id="text_50" x="1537.5" y="961" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">candidates</ns50:text>
+<ns54:text xmlns:ns54="http://www.w3.org/2240/svg" id="text_54" x="1952.5" y="916" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">DFT</ns54:text>
+<ns55:text xmlns:ns55="http://www.w3.org/2240/svg" id="text_55" x="1952.5" y="961" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">refinement</ns55:text>
+<ns56:text xmlns:ns56="http://www.w3.org/2240/svg" id="text_56" x="1100" y="1051" fill="#647585" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">Categories can overlap; CREST combines MTD, MD and GC. GFNn-xTB is an energy method, not a sampling strategy.</ns56:text>
+<ns57:text xmlns:ns57="http://www.w3.org/2240/svg" id="text_57" x="1100" y="1094" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">The lower route is schematic; direct calculations and averaging over MD snapshots are also discussed in the review.</ns57:text>
+</g>
+</svg>
