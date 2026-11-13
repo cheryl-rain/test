@@ -4,84 +4,76 @@
   <title>Editable ensemble-centered ECD/VCD graphical abstract</title>
   <g id="vector_artwork" inkscape:groupmode="layer" inkscape:label="Vector artwork"><rect width="1000" height="1420" fill="white"/>
 <rect id="000_portrait_background" x="20" y="15" width="960" height="1390" rx="30" fill="#F6F9F9" stroke="none" stroke-width="1.5"/>
-<path id="004_line" d="M 139.000,227.000 L 139.000,348.000" fill="none" stroke="#647585" stroke-width="2"/>
-<path id="005_line" d="M 139.000,348.000 L 874.000,348.000" fill="none" stroke="#647585" stroke-width="2"/>
-<path id="006_schematic_energy_convergence" d="M 139.000,233.050 L 220.667,275.400 L 302.333,263.300 L 384.000,309.280 L 465.667,325.010 L 547.333,332.270 L 629.000,335.295 L 710.667,336.142 L 792.333,336.505 L 874.000,336.626" fill="none" stroke="#07867F" stroke-width="3.5"/>
-<ellipse id="007_energy_step" cx="139.0" cy="233.05" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="008_energy_step" cx="220.66666666666669" cy="275.4" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="009_energy_step" cx="302.33333333333337" cy="263.3" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="010_energy_step" cx="384.0" cy="309.28" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="011_energy_step" cx="465.6666666666667" cy="325.01" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="012_energy_step" cx="547.3333333333333" cy="332.27" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="013_energy_step" cx="629.0" cy="335.295" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="014_energy_step" cx="710.6666666666666" cy="336.142" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="015_energy_step" cx="792.3333333333334" cy="336.505" rx="4.6" ry="4.6" fill="#07867F"/>
-<ellipse id="016_energy_step" cx="874.0" cy="336.626" rx="4.6" ry="4.6" fill="#07867F"/>
-<path id="019_line" d="M 139.000,423.000 L 139.000,535.000" fill="none" stroke="#647585" stroke-width="2"/>
-<path id="020_line" d="M 139.000,535.000 L 874.000,535.000" fill="none" stroke="#647585" stroke-width="2"/>
-<path id="021_schematic_gradient_convergence" d="M 139.000,430.840 L 220.667,463.320 L 302.333,494.680 L 384.000,486.840 L 465.667,514.840 L 547.333,523.240 L 629.000,528.280 L 710.667,532.424 L 792.333,533.656 L 874.000,534.216" fill="none" stroke="#80529D" stroke-width="3.5"/>
-<ellipse id="022_gradient_step" cx="139.0" cy="430.84" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="023_gradient_step" cx="220.66666666666669" cy="463.32" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="024_gradient_step" cx="302.33333333333337" cy="494.68" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="025_gradient_step" cx="384.0" cy="486.84000000000003" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="026_gradient_step" cx="465.6666666666667" cy="514.84" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="027_gradient_step" cx="547.3333333333333" cy="523.24" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="028_gradient_step" cx="629.0" cy="528.28" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="029_gradient_step" cx="710.6666666666666" cy="532.424" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="030_gradient_step" cx="792.3333333333334" cy="533.656" rx="4.6" ry="4.6" fill="#80529D"/>
-<ellipse id="031_gradient_step" cx="874.0" cy="534.216" rx="4.6" ry="4.6" fill="#80529D"/>
-<path id="032_line" d="M 147.000,527.160 L 874.000,527.160" fill="none" stroke="#B98426" stroke-width="2" stroke-dasharray="7 5"/>
-<ellipse id="034_converged_step" cx="874.0" cy="534.216" rx="6.5" ry="6.5" fill="#B98426"/>
-<path id="038_arrow_shaft" d="M 500.000,655.000 L 500.000,675.000" fill="none" stroke="#17364E" stroke-width="3"/>
-<path id="039_arrow_head" d="M 500.000,685.000 L 494.200,675.000 L 505.800,675.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
-<rect id="041_frequency_step" x="60" y="757" width="252" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
-<path id="044_arrow_shaft" d="M 321.000,808.000 L 352.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
-<path id="045_arrow_head" d="M 361.000,808.000 L 352.000,813.220 L 352.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
-<rect id="046_frequency_step" x="370" y="757" width="270" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
-<path id="049_arrow_shaft" d="M 649.000,808.000 L 680.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
-<path id="050_arrow_head" d="M 689.000,808.000 L 680.000,813.220 L 680.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
-<rect id="051_frequency_step" x="698" y="757" width="242" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
-<path id="054_line" d="M 820.000,862.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
-<path id="055_line" d="M 280.000,884.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
-<path id="056_arrow_shaft" d="M 280.000,884.000 L 280.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
-<path id="057_arrow_head" d="M 280.000,905.000 L 275.940,898.000 L 284.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
-<path id="058_arrow_shaft" d="M 720.000,884.000 L 720.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
-<path id="059_arrow_head" d="M 720.000,905.000 L 715.940,898.000 L 724.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
-<rect id="060_minimum_verification" x="60" y="913" width="425" height="106" rx="13" fill="#E5F2EC" stroke="none" stroke-width="1.5"/>
-<rect id="063_thermal_quantities" x="515" y="913" width="425" height="106" rx="13" fill="#F9EFDB" stroke="none" stroke-width="1.5"/>
-<path id="066_line" d="M 55.000,1041.000 L 945.000,1041.000" fill="none" stroke="#CFDADC" stroke-width="3"/>
-<rect id="067_functionals_group" x="60" y="1065" width="880" height="105" rx="12" fill="#EEF4F2" stroke="none" stroke-width="1.5"/>
-<rect id="070_dispersion_group" x="60" y="1190" width="365" height="126" rx="12" fill="#F4F0F8" stroke="none" stroke-width="1.5"/>
-<rect id="073_basis_group" x="445" y="1190" width="495" height="126" rx="12" fill="#F8F3E9" stroke="none" stroke-width="1.5"/>
+<rect id="003_candidate_geometry" x="245" y="184" width="510" height="63" rx="13" fill="#E8F0EE" stroke="none" stroke-width="1.5"/>
+<path id="005_arrow_shaft" d="M 500.000,247.000 L 500.000,269.000" fill="none" stroke="#17364E" stroke-width="2.8"/>
+<path id="006_arrow_head" d="M 500.000,278.000 L 494.780,269.000 L 505.220,269.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="007_evaluate_energy_gradient" x="245" y="278" width="510" height="84" rx="13" fill="#E3EFEB" stroke="none" stroke-width="1.5"/>
+<path id="010_arrow_shaft" d="M 500.000,362.000 L 500.000,400.000" fill="none" stroke="#17364E" stroke-width="2.8"/>
+<path id="011_arrow_head" d="M 500.000,409.000 L 494.780,400.000 L 505.220,400.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<path id="012_convergence_decision" d="M 500.000,409.000 L 720.000,457.000 L 500.000,505.000 L 280.000,457.000 Z" fill="white" stroke="#07867F" stroke-width="2.5"/>
+<path id="014_line" d="M 280.000,457.000 L 165.000,457.000" fill="none" stroke="#07867F" stroke-width="2.6"/>
+<path id="015_unconverged_branch_shaft" d="M 165.000,457.000 L 165.000,506.000" fill="none" stroke="#07867F" stroke-width="2.6"/>
+<path id="016_unconverged_branch_head" d="M 165.000,515.000 L 159.780,506.000 L 170.220,506.000 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<rect id="018_geometry_update" x="60" y="515" width="210" height="80" rx="12" fill="#E8F0EE" stroke="none" stroke-width="1.5"/>
+<path id="021_line" d="M 60.000,555.000 L 36.000,555.000" fill="none" stroke="#07867F" stroke-width="2.6"/>
+<path id="022_line" d="M 36.000,555.000 L 36.000,320.000" fill="none" stroke="#07867F" stroke-width="2.6"/>
+<path id="023_iteration_loop_shaft" d="M 36.000,320.000 L 236.000,320.000" fill="none" stroke="#07867F" stroke-width="2.6"/>
+<path id="024_iteration_loop_head" d="M 245.000,320.000 L 236.000,325.220 L 236.000,314.780 Z" fill="#07867F" stroke="#07867F" stroke-width="0"/>
+<path id="025_arrow_shaft" d="M 500.000,505.000 L 500.000,592.000" fill="none" stroke="#17364E" stroke-width="2.8"/>
+<path id="026_arrow_head" d="M 500.000,601.000 L 494.780,592.000 L 505.220,592.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="028_converged_geometry" x="290" y="601" width="420" height="54" rx="12" fill="#DDECE5" stroke="none" stroke-width="1.5"/>
+<path id="030_arrow_shaft" d="M 500.000,655.000 L 500.000,675.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="031_arrow_head" d="M 500.000,685.000 L 494.200,675.000 L 505.800,675.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="033_frequency_step" x="60" y="757" width="252" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="036_arrow_shaft" d="M 321.000,808.000 L 352.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
+<path id="037_arrow_head" d="M 361.000,808.000 L 352.000,813.220 L 352.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="038_frequency_step" x="370" y="757" width="270" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="041_arrow_shaft" d="M 649.000,808.000 L 680.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
+<path id="042_arrow_head" d="M 689.000,808.000 L 680.000,813.220 L 680.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="043_frequency_step" x="698" y="757" width="242" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="046_line" d="M 820.000,862.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="047_line" d="M 280.000,884.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="048_arrow_shaft" d="M 280.000,884.000 L 280.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="049_arrow_head" d="M 280.000,905.000 L 275.940,898.000 L 284.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<path id="050_arrow_shaft" d="M 720.000,884.000 L 720.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="051_arrow_head" d="M 720.000,905.000 L 715.940,898.000 L 724.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="052_minimum_verification" x="60" y="913" width="425" height="106" rx="13" fill="#E5F2EC" stroke="none" stroke-width="1.5"/>
+<rect id="055_thermal_quantities" x="515" y="913" width="425" height="106" rx="13" fill="#F9EFDB" stroke="none" stroke-width="1.5"/>
+<path id="058_line" d="M 55.000,1041.000 L 945.000,1041.000" fill="none" stroke="#CFDADC" stroke-width="3"/>
+<rect id="059_functionals_group" x="60" y="1065" width="880" height="105" rx="12" fill="#EEF4F2" stroke="none" stroke-width="1.5"/>
+<rect id="062_dispersion_group" x="60" y="1190" width="365" height="126" rx="12" fill="#F4F0F8" stroke="none" stroke-width="1.5"/>
+<rect id="065_basis_group" x="445" y="1190" width="495" height="126" rx="12" fill="#F8F3E9" stroke="none" stroke-width="1.5"/>
 </g>
   <g id="editable_text" inkscape:groupmode="layer" inkscape:label="Editable text"><text id="text_4" x="500" y="81" fill="#17364E" font-family="Arial,sans-serif" font-size="47" font-weight="700" text-anchor="middle" xml:space="preserve">2  Geometry Optimization</text>
 <text id="text_5" x="500" y="139" fill="#17364E" font-family="Arial,sans-serif" font-size="47" font-weight="700" text-anchor="middle" xml:space="preserve">&amp; Vibrational Analysis</text>
-<text id="text_6" x="139" y="206" fill="#17364E" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start" xml:space="preserve">Energy</text>
-<text id="text_20" x="104" y="291" fill="#647585" font-family="Arial,sans-serif" font-size="30" font-weight="400" text-anchor="middle" xml:space="preserve">E</text>
-<text id="text_21" x="139" y="401" fill="#17364E" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start" xml:space="preserve">Gradient norm</text>
-<text id="text_36" x="867" y="496" fill="#B98426" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="end" xml:space="preserve">Convergence threshold</text>
-<text id="text_38" x="102" y="487" fill="#647585" font-family="DejaVu Sans,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">‖∇E‖</text>
-<text id="text_39" x="500" y="579" fill="#647585" font-family="Arial,sans-serif" font-size="29" font-weight="400" text-anchor="middle" xml:space="preserve">Optimization steps</text>
-<text id="text_40" x="500" y="637" fill="#07867F" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle" xml:space="preserve">Converged geometry → frequency check</text>
-<text id="text_43" x="500" y="729" fill="#17364E" font-family="Arial,sans-serif" font-size="38" font-weight="700" text-anchor="middle" xml:space="preserve">Harmonic vibrational analysis</text>
-<text id="text_45" x="186.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Hessian</text>
-<text id="text_46" x="186.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">Energy curvature</text>
-<text id="text_50" x="505.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Mass-weighting</text>
-<text id="text_51" x="505.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ diagonalization</text>
-<text id="text_55" x="819.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Normal modes</text>
-<text id="text_56" x="819.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ frequencies</text>
-<text id="text_64" x="272" y="951" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">No imaginary frequencies</text>
-<text id="text_65" x="272" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Local minimum</text>
-<text id="text_67" x="727" y="951" fill="#B98426" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" xml:space="preserve">ZPVE + thermal corrections</text>
-<text id="text_68" x="727" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">H and G at temperature T</text>
-<text id="text_71" x="500" y="1101" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Representative DFT functionals</text>
-<text id="text_72" x="500" y="1146" fill="#17364E" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle" xml:space="preserve">B3LYP • PBE0 • M06-2X • ωB97X-D</text>
-<text id="text_74" x="242" y="1227" fill="#80529D" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Dispersion correction</text>
-<text id="text_75" x="242" y="1280" fill="#17364E" font-family="Arial,sans-serif" font-size="36" font-weight="700" text-anchor="middle" xml:space="preserve">D3 / D4</text>
-<text id="text_77" x="692" y="1227" fill="#B98426" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Representative basis sets</text>
-<text id="text_78" x="692" y="1264" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Double-ζ: 6-31G(d) / def2-SVP</text>
-<text id="text_79" x="692" y="1301" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Triple-ζ: 6-311G(d,p) / def2-TZVP</text>
-<text id="text_80" x="500" y="1355" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Diffuse functions for ions • Solvent matched to experiment</text>
-<text id="text_81" x="500" y="1391" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">Schematic convergence; translation/rotation zero modes are excluded.</text>
+<text id="text_7" x="500" y="226" fill="#17364E" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle" xml:space="preserve">Candidate geometry</text>
+<text id="text_11" x="500" y="313" fill="#07867F" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle" xml:space="preserve">Evaluate energy and gradient</text>
+<text id="text_12" x="500" y="348" fill="#17364E" font-family="DejaVu Sans,sans-serif" font-size="29" font-weight="400" text-anchor="middle" xml:space="preserve">E(R), ∇E(R)</text>
+<text id="text_16" x="500" y="467" fill="#07867F" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle" xml:space="preserve">Convergence check</text>
+<text id="text_20" x="211" y="441" fill="#07867F" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" xml:space="preserve">No</text>
+<text id="text_22" x="165" y="548" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle" xml:space="preserve">Update geometry</text>
+<text id="text_23" x="165" y="579" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">R → R + ΔR</text>
+<text id="text_30" x="557" y="565" fill="#07867F" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start" xml:space="preserve">Yes</text>
+<text id="text_32" x="500" y="638" fill="#17364E" font-family="Arial,sans-serif" font-size="31" font-weight="700" text-anchor="middle" xml:space="preserve">Optimized geometry</text>
+<text id="text_35" x="500" y="729" fill="#17364E" font-family="Arial,sans-serif" font-size="38" font-weight="700" text-anchor="middle" xml:space="preserve">Harmonic vibrational analysis</text>
+<text id="text_37" x="186.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Hessian</text>
+<text id="text_38" x="186.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">Energy curvature</text>
+<text id="text_42" x="505.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Mass-weighting</text>
+<text id="text_43" x="505.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ diagonalization</text>
+<text id="text_47" x="819.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Normal modes</text>
+<text id="text_48" x="819.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ frequencies</text>
+<text id="text_56" x="272" y="951" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">No imaginary frequencies</text>
+<text id="text_57" x="272" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Local minimum</text>
+<text id="text_59" x="727" y="951" fill="#B98426" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" xml:space="preserve">ZPVE + thermal corrections</text>
+<text id="text_60" x="727" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">H and G at temperature T</text>
+<text id="text_63" x="500" y="1101" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Representative DFT functionals</text>
+<text id="text_64" x="500" y="1146" fill="#17364E" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle" xml:space="preserve">B3LYP • PBE0 • M06-2X • ωB97X-D</text>
+<text id="text_66" x="242" y="1227" fill="#80529D" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Dispersion correction</text>
+<text id="text_67" x="242" y="1280" fill="#17364E" font-family="Arial,sans-serif" font-size="36" font-weight="700" text-anchor="middle" xml:space="preserve">D3 / D4</text>
+<text id="text_69" x="692" y="1227" fill="#B98426" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Representative basis sets</text>
+<text id="text_70" x="692" y="1264" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Double-ζ: 6-31G(d) / def2-SVP</text>
+<text id="text_71" x="692" y="1301" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Triple-ζ: 6-311G(d,p) / def2-TZVP</text>
+<text id="text_72" x="500" y="1355" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Diffuse functions for ions • Solvent matched to experiment</text>
+<text id="text_73" x="500" y="1391" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">Schematic iterative workflow; translation/rotation zero modes are excluded.</text>
 </g>
 </svg>
