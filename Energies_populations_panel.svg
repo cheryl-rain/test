@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="2000" height="2840" viewBox="0 0 1000 1420">
+  <desc>Original molecule-independent conceptual vector diagram. All landscapes and spectra are schematic; no molecular structures or embedded raster images.</desc>
+  <title>Editable ensemble-centered ECD/VCD graphical abstract</title>
+  <g id="vector_artwork" inkscape:groupmode="layer" inkscape:label="Vector artwork"><rect width="1000" height="1420" fill="white"/>
+<rect id="000_portrait_background" x="20" y="15" width="960" height="1390" rx="30" fill="#F6F9F9" stroke="none" stroke-width="1.5"/>
+<rect id="003_energy_based_route" x="52" y="169" width="896" height="617" rx="20" fill="white" stroke="none" stroke-width="1.5"/>
+<path id="005_relative_G_level" d="M 173.000,410.000 L 377.000,410.000" fill="none" stroke="#17364E" stroke-width="6"/>
+<rect id="007_Boltzmann_weight" x="585" y="397" width="260" height="29" rx="3" fill="#07867F" stroke="none" stroke-width="1.5"/>
+<path id="008_relative_G_level" d="M 173.000,366.000 L 377.000,366.000" fill="none" stroke="#17364E" stroke-width="6"/>
+<rect id="010_Boltzmann_weight" x="585" y="353" width="130" height="29" rx="3" fill="#80529D" stroke="none" stroke-width="1.5"/>
+<path id="011_relative_G_level" d="M 173.000,322.000 L 377.000,322.000" fill="none" stroke="#17364E" stroke-width="6"/>
+<rect id="013_Boltzmann_weight" x="585" y="309" width="65" height="29" rx="3" fill="#B98426" stroke="none" stroke-width="1.5"/>
+<path id="014_relative_G_level" d="M 173.000,278.000 L 377.000,278.000" fill="none" stroke="#17364E" stroke-width="6"/>
+<rect id="016_Boltzmann_weight" x="585" y="265" width="32.5" height="29" rx="3" fill="#8ABBB3" stroke="none" stroke-width="1.5"/>
+<path id="017_energy_to_population_shaft" d="M 424.000,344.000 L 514.000,344.000" fill="none" stroke="#B98426" stroke-width="6"/>
+<path id="018_energy_to_population_head" d="M 529.000,344.000 L 514.000,352.700 L 514.000,335.300 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<rect id="026_thermochemical_treatment" x="82" y="666" width="836" height="97" rx="13" fill="#EEF3F1" stroke="none" stroke-width="1.5"/>
+<rect id="031_MD_based_route" x="52" y="843" width="896" height="390" rx="20" fill="white" stroke="none" stroke-width="1.5"/>
+<path id="034_line" d="M 133.000,966.000 L 133.000,1078.000" fill="none" stroke="#647585" stroke-width="1.8"/>
+<path id="035_line" d="M 133.000,1078.000 L 566.000,1078.000" fill="none" stroke="#647585" stroke-width="1.8"/>
+<path id="036_symbolic_MD_state_series" d="M 133.000,1059.000 L 172.364,1059.000 L 211.727,1024.000 L 251.091,1024.000 L 290.455,1059.000 L 329.818,1059.000 L 369.182,989.000 L 408.545,989.000 L 447.909,1024.000 L 487.273,1059.000 L 526.636,1059.000 L 566.000,1059.000" fill="none" stroke="#80529D" stroke-width="2.5"/>
+<ellipse id="037_sampled_MD_state" cx="133.0" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="038_sampled_MD_state" cx="172.36363636363637" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="039_sampled_MD_state" cx="211.72727272727275" cy="1024.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="040_sampled_MD_state" cx="251.0909090909091" cy="1024.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="041_sampled_MD_state" cx="290.4545454545455" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="042_sampled_MD_state" cx="329.8181818181818" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="043_sampled_MD_state" cx="369.1818181818182" cy="989.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="044_sampled_MD_state" cx="408.54545454545456" cy="989.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="045_sampled_MD_state" cx="447.90909090909093" cy="1024.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="046_sampled_MD_state" cx="487.27272727272725" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="047_sampled_MD_state" cx="526.6363636363636" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<ellipse id="048_sampled_MD_state" cx="566.0" cy="1059.0" rx="3.8" ry="3.8" fill="#80529D"/>
+<path id="053_trajectory_to_weights_shaft" d="M 594.000,1025.000 L 635.000,1025.000" fill="none" stroke="#80529D" stroke-width="2.7"/>
+<path id="054_trajectory_to_weights_head" d="M 643.000,1025.000 L 635.000,1029.640 L 635.000,1020.360 Z" fill="#80529D" stroke="#80529D" stroke-width="0"/>
+<rect id="055_MD_statistical_weight" x="682" y="975" width="154.0" height="21" rx="2" fill="#07867F" stroke="none" stroke-width="1.5"/>
+<rect id="056_MD_statistical_weight" x="682" y="1011" width="66.0" height="21" rx="2" fill="#80529D" stroke="none" stroke-width="1.5"/>
+<rect id="057_MD_statistical_weight" x="682" y="1047" width="44.0" height="21" rx="2" fill="#B98426" stroke="none" stroke-width="1.5"/>
+<rect id="061_weights_output" x="65" y="1271" width="870" height="67" rx="15" fill="#E2EFEB" stroke="none" stroke-width="1.5"/>
+</g>
+  <g id="editable_text" inkscape:groupmode="layer" inkscape:label="Editable text"><text id="text_4" x="500" y="86" fill="#17364E" font-family="Arial,sans-serif" font-size="49" font-weight="700" text-anchor="middle" xml:space="preserve">3  Energies &amp; populations</text>
+<text id="text_5" x="500" y="139" fill="#647585" font-family="Arial,sans-serif" font-size="29" font-weight="400" text-anchor="middle" xml:space="preserve">Population calculations for low-energy conformers</text>
+<text id="text_7" x="500" y="213" fill="#07867F" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle" xml:space="preserve">Conformational energies and Boltzmann populations</text>
+<text id="text_9" x="152" y="421" fill="#647585" font-family="Arial,sans-serif" font-size="32" font-weight="400" text-anchor="end" xml:space="preserve">G1</text>
+<text id="text_12" x="152" y="377" fill="#647585" font-family="Arial,sans-serif" font-size="32" font-weight="400" text-anchor="end" xml:space="preserve">G2</text>
+<text id="text_15" x="152" y="333" fill="#647585" font-family="Arial,sans-serif" font-size="32" font-weight="400" text-anchor="end" xml:space="preserve">G3</text>
+<text id="text_18" x="152" y="289" fill="#647585" font-family="Arial,sans-serif" font-size="32" font-weight="400" text-anchor="end" xml:space="preserve">G4</text>
+<text id="text_22" x="500" y="476" fill="#17364E" font-family="DejaVu Sans,sans-serif" font-size="32" font-weight="700" text-anchor="middle" xml:space="preserve">pᵢ = exp(−ΔGᵢ/RT) / Σⱼ exp(−ΔGⱼ/RT)</text>
+<text id="text_23" x="500" y="519" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle" xml:space="preserve">Gibbs free-energy differences shown as an example</text>
+<text id="text_24" x="500" y="556" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Multilevel option: single-point energy + corrections</text>
+<text id="text_25" x="280" y="601" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Electronic energy</text>
+<text id="text_26" x="718" y="601" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Electronic energy + ZPVE</text>
+<text id="text_27" x="280" y="639" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Enthalpy (H)</text>
+<text id="text_28" x="718" y="639" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Gibbs free energy (G)</text>
+<text id="text_30" x="500" y="700" fill="#07867F" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" xml:space="preserve">Thermodynamic corrections and low-frequency vibrations</text>
+<text id="text_31" x="500" y="735" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="400" text-anchor="middle" xml:space="preserve">RRHO • qRRHO • hindered-rotor model</text>
+<text id="text_32" x="500" y="776" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle" xml:space="preserve">Thermochemical post-processing: Shermo</text>
+<text id="text_33" x="500" y="824" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Alternative population / averaging route</text>
+<text id="text_35" x="500" y="888" fill="#80529D" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle" xml:space="preserve">Conformational populations based on MD sampling</text>
+<text id="text_36" x="500" y="929" fill="#647585" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">Adequate sampling and equilibration</text>
+<text id="text_52" x="120" y="1068" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end" xml:space="preserve">C1</text>
+<text id="text_53" x="120" y="1033" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end" xml:space="preserve">C2</text>
+<text id="text_54" x="120" y="998" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="end" xml:space="preserve">C3</text>
+<text id="text_55" x="349.5" y="1111" fill="#647585" font-family="Arial,sans-serif" font-size="25" font-weight="400" text-anchor="middle" xml:space="preserve">Time</text>
+<text id="text_61" x="760" y="1111" fill="#80529D" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle" xml:space="preserve">Statistical weights</text>
+<text id="text_62" x="500" y="1160" fill="#17364E" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Direct averaging of snapshot spectra</text>
+<text id="text_63" x="500" y="1206" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">or weighting by MD-derived state probabilities</text>
+<text id="text_65" x="500" y="1315" fill="#07867F" font-family="Arial,sans-serif" font-size="31" font-weight="700" text-anchor="middle" xml:space="preserve">Conformational weights → spectral averaging</text>
+<text id="text_66" x="500" y="1363" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">Energy choice and low-frequency treatment affect the resulting weights.</text>
+<text id="text_67" x="500" y="1396" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">Schematic levels and MD statistics; neither route is universally superior.</text>
+</g>
+</svg>
