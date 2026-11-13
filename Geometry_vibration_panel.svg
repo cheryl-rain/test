@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="2000" height="2840" viewBox="0 0 1000 1420">
+  <desc>Original molecule-independent conceptual vector diagram. All landscapes and spectra are schematic; no molecular structures or embedded raster images.</desc>
+  <title>Editable ensemble-centered ECD/VCD graphical abstract</title>
+  <g id="vector_artwork" inkscape:groupmode="layer" inkscape:label="Vector artwork"><rect width="1000" height="1420" fill="white"/>
+<rect id="000_portrait_background" x="20" y="15" width="960" height="1390" rx="30" fill="#F6F9F9" stroke="none" stroke-width="1.5"/>
+<path id="003_line" d="M 116.000,211.000 L 116.000,510.000" fill="none" stroke="#647585" stroke-width="2.6"/>
+<path id="004_line" d="M 116.000,510.000 L 891.000,510.000" fill="none" stroke="#647585" stroke-width="2.6"/>
+<path id="005_conceptual_potential_well" d="M 116.000,237.000 L 121.167,243.013 L 126.333,248.945 L 131.500,254.797 L 136.667,260.568 L 141.833,266.258 L 147.000,271.867 L 152.167,277.396 L 157.333,282.844 L 162.500,288.211 L 167.667,293.498 L 172.833,298.704 L 178.000,303.829 L 183.167,308.873 L 188.333,313.837 L 193.500,318.720 L 198.667,323.522 L 203.833,328.244 L 209.000,332.885 L 214.167,337.445 L 219.333,341.924 L 224.500,346.323 L 229.667,350.641 L 234.833,354.879 L 240.000,359.035 L 245.167,363.111 L 250.333,367.106 L 255.500,371.021 L 260.667,374.855 L 265.833,378.608 L 271.000,382.280 L 276.167,385.872 L 281.333,389.383 L 286.500,392.813 L 291.667,396.162 L 296.833,399.431 L 302.000,402.619 L 307.167,405.727 L 312.333,408.753 L 317.500,411.699 L 322.667,414.564 L 327.833,417.349 L 333.000,420.053 L 338.167,422.676 L 343.333,425.218 L 348.500,427.680 L 353.667,430.061 L 358.833,432.361 L 364.000,434.581 L 369.167,436.720 L 374.333,438.778 L 379.500,440.755 L 384.667,442.652 L 389.833,444.468 L 395.000,446.203 L 400.167,447.858 L 405.333,449.432 L 410.500,450.925 L 415.667,452.337 L 420.833,453.669 L 426.000,454.920 L 431.167,456.090 L 436.333,457.180 L 441.500,458.189 L 446.667,459.117 L 451.833,459.964 L 457.000,460.731 L 462.167,461.417 L 467.333,462.023 L 472.500,462.547 L 477.667,462.991 L 482.833,463.354 L 488.000,463.637 L 493.167,463.839 L 498.333,463.960 L 503.500,464.000 L 508.667,463.960 L 513.833,463.839 L 519.000,463.637 L 524.167,463.354 L 529.333,462.991 L 534.500,462.547 L 539.667,462.023 L 544.833,461.417 L 550.000,460.731 L 555.167,459.964 L 560.333,459.117 L 565.500,458.189 L 570.667,457.180 L 575.833,456.090 L 581.000,454.920 L 586.167,453.669 L 591.333,452.337 L 596.500,450.925 L 601.667,449.432 L 606.833,447.858 L 612.000,446.203 L 617.167,444.468 L 622.333,442.652 L 627.500,440.755 L 632.667,438.778 L 637.833,436.720 L 643.000,434.581 L 648.167,432.361 L 653.333,430.061 L 658.500,427.680 L 663.667,425.218 L 668.833,422.676 L 674.000,420.053 L 679.167,417.349 L 684.333,414.564 L 689.500,411.699 L 694.667,408.753 L 699.833,405.727 L 705.000,402.619 L 710.167,399.431 L 715.333,396.162 L 720.500,392.813 L 725.667,389.383 L 730.833,385.872 L 736.000,382.280 L 741.167,378.608 L 746.333,374.855 L 751.500,371.021 L 756.667,367.106 L 761.833,363.111 L 767.000,359.035 L 772.167,354.879 L 777.333,350.641 L 782.500,346.323 L 787.667,341.924 L 792.833,337.445 L 798.000,332.885 L 803.167,328.244 L 808.333,323.522 L 813.500,318.720 L 818.667,313.837 L 823.833,308.873 L 829.000,303.829 L 834.167,298.704 L 839.333,293.498 L 844.500,288.211 L 849.667,282.844 L 854.833,277.396 L 860.000,271.867 L 865.167,266.258 L 870.333,260.568 L 875.500,254.797 L 880.667,248.945 L 885.833,243.013 L 891.000,237.000" fill="none" stroke="#91B9B3" stroke-width="4.2"/>
+<path id="006_energy_gradient_descent_shaft" d="M 203.833,328.244 L 292.435,395.372" fill="none" stroke="#B98426" stroke-width="3.8"/>
+<path id="007_energy_gradient_descent_head" d="M 302.000,402.619 L 288.232,400.920 L 296.638,389.825 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<path id="008_energy_gradient_descent_shaft" d="M 312.333,408.753 L 389.204,442.977" fill="none" stroke="#B98426" stroke-width="3.8"/>
+<path id="009_energy_gradient_descent_head" d="M 400.167,447.858 L 386.373,449.335 L 392.035,436.619 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<path id="010_energy_gradient_descent_shaft" d="M 798.000,332.885 L 709.470,398.576" fill="none" stroke="#B98426" stroke-width="3.8"/>
+<path id="011_energy_gradient_descent_head" d="M 699.833,405.727 L 705.323,392.987 L 713.618,404.165 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<path id="012_energy_gradient_descent_shaft" d="M 684.333,414.564 L 612.723,444.768" fill="none" stroke="#B98426" stroke-width="3.8"/>
+<path id="013_energy_gradient_descent_head" d="M 601.667,449.432 L 610.019,438.355 L 615.428,451.181 Z" fill="#B98426" stroke="#B98426" stroke-width="0"/>
+<ellipse id="014_optimization_iterate" cx="203.83333333333331" cy="328.2439111111111" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="015_optimization_iterate" cx="312.33333333333337" cy="408.7532444444445" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="016_optimization_iterate" cx="400.1666666666667" cy="447.85777777777776" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="017_optimization_iterate" cx="798.0" cy="332.8848" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="018_optimization_iterate" cx="684.3333333333334" cy="414.56444444444446" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="019_optimization_iterate" cx="601.6666666666667" cy="449.4316444444445" rx="5.5" ry="5.5" fill="#07867F"/>
+<ellipse id="020_stationary_minimum" cx="503.5" cy="464.0" rx="9.0" ry="9.0" fill="#B98426"/>
+<path id="025_arrow_shaft" d="M 500.000,655.000 L 500.000,675.000" fill="none" stroke="#17364E" stroke-width="3"/>
+<path id="026_arrow_head" d="M 500.000,685.000 L 494.200,675.000 L 505.800,675.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="028_frequency_step" x="60" y="757" width="252" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="031_arrow_shaft" d="M 321.000,808.000 L 352.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
+<path id="032_arrow_head" d="M 361.000,808.000 L 352.000,813.220 L 352.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="033_frequency_step" x="370" y="757" width="270" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="036_arrow_shaft" d="M 649.000,808.000 L 680.000,808.000" fill="none" stroke="#17364E" stroke-width="2.7"/>
+<path id="037_arrow_head" d="M 689.000,808.000 L 680.000,813.220 L 680.000,802.780 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="038_frequency_step" x="698" y="757" width="242" height="105" rx="13" fill="#E6EFED" stroke="none" stroke-width="1.5"/>
+<path id="041_line" d="M 820.000,862.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="042_line" d="M 280.000,884.000 L 820.000,884.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="043_arrow_shaft" d="M 280.000,884.000 L 280.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="044_arrow_head" d="M 280.000,905.000 L 275.940,898.000 L 284.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<path id="045_arrow_shaft" d="M 720.000,884.000 L 720.000,898.000" fill="none" stroke="#17364E" stroke-width="2"/>
+<path id="046_arrow_head" d="M 720.000,905.000 L 715.940,898.000 L 724.060,898.000 Z" fill="#17364E" stroke="#17364E" stroke-width="0"/>
+<rect id="047_minimum_verification" x="60" y="913" width="425" height="106" rx="13" fill="#E5F2EC" stroke="none" stroke-width="1.5"/>
+<rect id="050_thermal_quantities" x="515" y="913" width="425" height="106" rx="13" fill="#F9EFDB" stroke="none" stroke-width="1.5"/>
+<path id="053_line" d="M 55.000,1041.000 L 945.000,1041.000" fill="none" stroke="#CFDADC" stroke-width="3"/>
+<rect id="054_functionals_group" x="60" y="1065" width="880" height="105" rx="12" fill="#EEF4F2" stroke="none" stroke-width="1.5"/>
+<rect id="057_dispersion_group" x="60" y="1190" width="365" height="126" rx="12" fill="#F4F0F8" stroke="none" stroke-width="1.5"/>
+<rect id="060_basis_group" x="445" y="1190" width="495" height="126" rx="12" fill="#F8F3E9" stroke="none" stroke-width="1.5"/>
+</g>
+  <g id="editable_text" inkscape:groupmode="layer" inkscape:label="Editable text"><text id="text_4" x="500" y="81" fill="#17364E" font-family="Arial,sans-serif" font-size="47" font-weight="700" text-anchor="middle" xml:space="preserve">2  Geometry Optimization</text>
+<text id="text_5" x="500" y="139" fill="#17364E" font-family="Arial,sans-serif" font-size="47" font-weight="700" text-anchor="middle" xml:space="preserve">&amp; Vibrational Analysis</text>
+<text id="text_24" x="81" y="225" fill="#647585" font-family="Arial,sans-serif" font-size="37" font-weight="400" text-anchor="middle" xml:space="preserve">E</text>
+<text id="text_25" x="503.5" y="554" fill="#647585" font-family="Arial,sans-serif" font-size="31" font-weight="400" text-anchor="middle" xml:space="preserve">Geometry coordinate</text>
+<text id="text_26" x="500" y="590" fill="#17364E" font-family="Arial,sans-serif" font-size="32" font-weight="700" text-anchor="middle" xml:space="preserve">Energy + gradient → optimized geometry</text>
+<text id="text_27" x="500" y="637" fill="#07867F" font-family="DejaVu Sans,sans-serif" font-size="35" font-weight="700" text-anchor="middle" xml:space="preserve">Stationary point: ∇E = 0</text>
+<text id="text_30" x="500" y="729" fill="#17364E" font-family="Arial,sans-serif" font-size="38" font-weight="700" text-anchor="middle" xml:space="preserve">Harmonic vibrational analysis</text>
+<text id="text_32" x="186.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Hessian</text>
+<text id="text_33" x="186.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">Energy curvature</text>
+<text id="text_37" x="505.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Mass-weighting</text>
+<text id="text_38" x="505.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ diagonalization</text>
+<text id="text_42" x="819.0" y="798" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Normal modes</text>
+<text id="text_43" x="819.0" y="839" fill="#17364E" font-family="Arial,sans-serif" font-size="27" font-weight="400" text-anchor="middle" xml:space="preserve">+ frequencies</text>
+<text id="text_51" x="272" y="951" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">No imaginary frequencies</text>
+<text id="text_52" x="272" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" xml:space="preserve">Local minimum</text>
+<text id="text_54" x="727" y="951" fill="#B98426" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="middle" xml:space="preserve">ZPVE + thermal corrections</text>
+<text id="text_55" x="727" y="995" fill="#17364E" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">H and G at temperature T</text>
+<text id="text_58" x="500" y="1101" fill="#07867F" font-family="Arial,sans-serif" font-size="29" font-weight="700" text-anchor="middle" xml:space="preserve">Representative DFT functionals</text>
+<text id="text_59" x="500" y="1146" fill="#17364E" font-family="Arial,sans-serif" font-size="33" font-weight="700" text-anchor="middle" xml:space="preserve">B3LYP • PBE0 • M06-2X • ωB97X-D</text>
+<text id="text_61" x="242" y="1227" fill="#80529D" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Dispersion correction</text>
+<text id="text_62" x="242" y="1280" fill="#17364E" font-family="Arial,sans-serif" font-size="36" font-weight="700" text-anchor="middle" xml:space="preserve">D3 / D4</text>
+<text id="text_64" x="692" y="1227" fill="#B98426" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle" xml:space="preserve">Representative basis sets</text>
+<text id="text_65" x="692" y="1264" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Double-ζ: 6-31G(d) / def2-SVP</text>
+<text id="text_66" x="692" y="1301" fill="#17364E" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Triple-ζ: 6-311G(d,p) / def2-TZVP</text>
+<text id="text_67" x="500" y="1355" fill="#647585" font-family="Arial,sans-serif" font-size="26" font-weight="400" text-anchor="middle" xml:space="preserve">Diffuse functions for ions • Solvent matched to experiment</text>
+<text id="text_68" x="500" y="1391" fill="#647585" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" xml:space="preserve">Schematic PES; exclude translation/rotation zero modes in the frequency check.</text>
+</g>
+</svg>
